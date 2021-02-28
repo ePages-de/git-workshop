@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://git-workshop.epages.works/"
+languageCode = "de-de"
+title = "Git Workshop"
 theme = "workshop-materials"
 
 [params]
-  subject = "IT"
-  feedbackLink = "https://github.com/experimental-software/workshop-materials/issues/new"
+  subject = "Git"
+  feedbackLink = "https://github.com/ePages-de/git-workshop/issues/new"

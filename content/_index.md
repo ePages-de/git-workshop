@@ -1,16 +1,15 @@
 ---
-tagline: Example project for IT Workshop materials.
-primaryLinkIcon: fas fa-code
-primaryLinkText: Template
-primaryLinkHref: https://github.com/experimental-software/workshop-materials
+tagline: Grundlagen für die Zusammenarbeit an Softwareprojekten
+primaryLinkIcon: fas fa-external-link-alt
+primaryLinkText: Join us!
+primaryLinkHref: https://developer.epages.com/about
 ---
 
-# Welcome!
+# Herzlich Willkommen!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Cras sit amet varius eros.
-Praesent ac nisi vitae lorem euismod cursus.
-Mauris id sem quis purus aliquam cursus ut sit amet risus.
-Donec tempor quis orci in facilisis.
-In ultrices urna scelerisque libero cursus rhoncus.
-Vestibulum feugiat arcu vel odio lacinia sollicitudin.
+[Git](https://de.wikipedia.org/wiki/Git) ist ein Programm, mit dessen Hilfe der Quelltext von Softwareprojekten verwaltet werden kann.
+Es ermöglicht u.U. den Überblick über Änderungen zu behalten und an verschiedenen Versionen der Software parallel zu arbeiten.
+Während dies auch schon für kleine Projekte wie individuell erstellte Webseiten nützlich ist, ist ein Versionskontrollsystem wie Git eine Grundvoraussetzung für professionelle Softwareentwicklung.
+
+Das Ziel von dem Git Workshop ist es Ihnen die Grundlagen für die Nutzung von Git zu vermitteln.
+Diese Webseite beinhaltet die Kursmaterialien für den Git Workshop.
