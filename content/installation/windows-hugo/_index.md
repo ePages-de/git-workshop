@@ -1,5 +1,5 @@
 ---
-title: Your title here
+title: Installieren von Hugo mit Windows
 type: tutorial
 weight: 1
 ---
