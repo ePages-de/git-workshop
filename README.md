@@ -1,31 +1,6 @@
-# Workshop Materials Template
+# Git Workshop Materials
 
-## Getting started
-
-```
-PROJECT_NAME=your-project-here
-git clone --recurse \
-  https://github.com/experimental-software/workshop-materials-template.git \
-  ${PROJECT_NAME}
-```
-
-To reset the branch history, run:
-
-```
-cd ${PROJECT_NAME}
-git checkout --orphan main
-git add .
-git commit -m "Initial commit"
-```
-
-## TODO
-
-After cloning the repository, you need to do the following steps:
-
-- [x] [Update dummy config](config.toml)
-- [x] [Update dummy home page text](content/_index.md)
-- [ ] [Update dummy subject](content/subject-one)
-- [ ] [Add legal text to imprint](content/imprint.html)
+This prepository contains the source code for Git workshop materials.
 
 ## Development
 
@@ -73,4 +48,4 @@ hugo new --kind tutorial subject-two/my-tutorial
 
 ## License
 
-This template repository is licensed under the [CreativeCommons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) license.
+TBD
