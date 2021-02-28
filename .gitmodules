@@ -1,0 +1,3 @@
+[submodule "themes/workshop-materials"]
+	path = themes/workshop-materials
+	url = https://github.com/experimental-software/workshop-materials.git
