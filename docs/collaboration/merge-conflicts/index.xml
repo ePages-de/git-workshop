@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your title here on Git Workshop</title>
+    <link>https://git-workshop.epages.works/collaboration/merge-conflicts/</link>
+    <description>Recent content in Your title here on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/collaboration/merge-conflicts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crabitur</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/5_crabitur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/5_crabitur/</guid>
+      <description>Curabitur id malesuada orci. Vestibulum mi magna, pharetra eu ex vitae, ullamcorper tincidunt neque. Maecenas mattis venenatis nibh vel cursus. Phasellus aliquet at orci id consequat. Aliquam aliquet, dolor nec aliquam mollis, tellus neque semper est, vitae pharetra nisi mauris quis augue. Fusce tristique hendrerit metus id consequat. Fusce rutrum venenatis odio, eu blandit lectus congue non. Pellentesque sit amet eleifend est. Proin convallis orci in orci tristique rhoncus. Aliquam fermentum orci vitae nunc bibendum accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Etiam sit amet</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</guid>
+      <description>Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante. Integer tempor lacus ex, eget aliquam urna finibus ac. Nam non neque eu lorem consectetur molestie. Maecenas dignissim neque elementum, consectetur eros non, aliquet nulla. Donec vel dignissim magna. Nullam commodo sed sapien eget accumsan. Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/1_introduction/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+    <item>
+      <title>Nam eget ex</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/4_nam-eget-ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/4_nam-eget-ex/</guid>
+      <description>Nam eget ex a diam tempor auctor. Proin tincidunt augue vitae sagittis malesuada. Suspendisse potenti. Vivamus at varius purus. Aenean sit amet ante rutrum, imperdiet ex ut, condimentum nisi. Pellentesque semper sem vel aliquam varius. Vivamus congue aliquet lectus vitae semper.</description>
+    </item>
+    
+    <item>
+      <title>Quisque ultricies</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/2_quisque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/2_quisque/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+  </channel>
+</rss>

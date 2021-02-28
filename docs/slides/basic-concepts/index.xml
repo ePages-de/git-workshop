@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your title here on Git Workshop</title>
+    <link>https://git-workshop.epages.works/slides/basic-concepts/</link>
+    <description>Recent content in Your title here on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/slides/basic-concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/00_title/</guid>
+      <description>  Introduction to Linux  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/01_agenda/</guid>
+      <description>  Agenda  Subject one Subject two Subject three   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</guid>
+      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</guid>
+      <description> 🐳  </description>
+    </item>
+    
+  </channel>
+</rss>

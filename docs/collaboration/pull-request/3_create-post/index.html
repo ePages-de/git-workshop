@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>Erstellung von erster Nachricht</title>
+</head>
+<body>
+  <p>Öffnen Sie nun die Eingabeaufforderung und wechseln Sie in das Projektverzeichnis:</p>
+<p>Windows:</p>
+<pre><code>cd d:\src\misc\technologie-nachrichten
+</code></pre><p>MacOS / Linux:</p>
+<pre><code>cd ~/src/misc/technologie-nachrichten
+</code></pre><p>Mit dem nächsten Befehl können wir mit Hilfe von Hugo automatisch eine neue Textdatei in dem Projekt anlegen.
+Starten Sie die Eingabe mit &ldquo;hugo new&rdquo;, gefolgt von dem Pfadelement &ldquo;posts/&quot;, dann Schlagworten für Ihre Nachrichtenmeldung und zum Schluss die Dateiendung &ldquo;.md&rdquo;.</p>
+<pre><code>hugo new posts/workplace-analytics.md
+</code></pre><p>Tip: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</p>
+<ul>
+<li><a href="https://www.heise.de/">https://www.heise.de/</a></li>
+<li><a href="https://news.ycombinator.com/">https://news.ycombinator.com/</a></li>
+<li><a href="https://www.reddit.com/r/java/">https://www.reddit.com/r/java/</a></li>
+<li><a href="https://www.reddit.com/r/react/">https://www.reddit.com/r/react/</a></li>
+</ul>
+<p>Daraufhin wird Ihnen Hugo bestätigen, dass die Datei erfolgreich angelegt wurde.</p>
+<p><img src="./img/hugo_confirm_post.png" alt="Bestätigung Anlegung"></p>
+<p>Öffnen Sie nun die Datei in Ihrem Texteditor. Hier ein Bespiel für die ursprünglichen Inhalte der generierten Datei.</p>
+<p><img src="./img/atom_open_file.png" alt="Datei öffnen"></p>
+<p>In den Zeilen 2 bis 4 finden Sie die Metadaten zu dem Artikel. Die Metadaten sind eingegrenzt von den Trennzeichen in Zeile 1 und 5. Wenn &ldquo;draft&rdquo; (dt. Entwurf) mit &ldquo;true&rdquo; konfiguriert ist, heißt das, dass Sie den Artikel noch nicht sehen werden wenn das HTML für die Webseite generiert wird, es sei denn es wird beim Kompilieren des HTML Codes der entsprechende Parameter gesetzt, dass auch Entwürfe mit gerendert werden sollen.</p>
+<p>Ändern Sie nur den Wert von &ldquo;draft&rdquo; von &ldquo;true&rdquo; zu &ldquo;false&rdquo; und geben Sie in Zeile 7 eine kurze Nachricht ein.</p>
+<p><img src="./img/atom_file_edit.png" alt="Datei bearbeiten"></p>
+
+</body>
+</html>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/git-clone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-git/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/distributed-repositories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/everyday-collaboration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/oveview-github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/links/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/00_title/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/01_agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/distributed-repositories/00_title/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/distributed-repositories/01_agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/distributed-repositories/02_first-topic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/distributed-repositories/99_summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/everyday-collaboration/00_title/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/everyday-collaboration/01_agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/everyday-collaboration/02_first-topic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/everyday-collaboration/99_summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/oveview-github/00_title/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/oveview-github/01_agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/oveview-github/02_first-topic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/oveview-github/99_summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-git/2_create-github-account/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/5_crabitur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/5_crabitur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-git/3_download-and-installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-git/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/git-clone/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-git/4_configure-github-desktop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/2_create-branch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/3_create-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/git-clone/2_fork-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/7_pull-request/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/git-clone/3_git-clone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/6_git-push/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/2_download/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/imprint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/4_nam-eget-ex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/4_nam-eget-ex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/2_quisque/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/2_quisque/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/installation/windows-hugo/5_test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/pull-request/4_preview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</loc>
+  </url>
+  
+</urlset>

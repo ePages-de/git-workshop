@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git Workshop</title>
+    <link>https://git-workshop.epages.works/</link>
+    <description>Recent content on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/00_title/</guid>
+      <description>  Introduction to Linux  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/01_agenda/</guid>
+      <description>  Agenda  Subject one Subject two Subject three   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</guid>
+      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</guid>
+      <description> 🐳  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/distributed-repositories/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/distributed-repositories/00_title/</guid>
+      <description>  Introduction to Linux  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/distributed-repositories/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/distributed-repositories/01_agenda/</guid>
+      <description>  Agenda  Subject one Subject two Subject three   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/distributed-repositories/02_first-topic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/distributed-repositories/02_first-topic/</guid>
+      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/distributed-repositories/99_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/distributed-repositories/99_summary/</guid>
+      <description> 🐳  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/00_title/</guid>
+      <description>  Introduction to Linux  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/01_agenda/</guid>
+      <description>  Agenda  Subject one Subject two Subject three   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/02_first-topic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/02_first-topic/</guid>
+      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/99_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/99_summary/</guid>
+      <description> 🐳  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/oveview-github/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/oveview-github/00_title/</guid>
+      <description>  Introduction to Linux  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/oveview-github/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/oveview-github/01_agenda/</guid>
+      <description>  Agenda  Subject one Subject two Subject three   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/oveview-github/02_first-topic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/oveview-github/02_first-topic/</guid>
+      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/oveview-github/99_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/oveview-github/99_summary/</guid>
+      <description> 🐳  </description>
+    </item>
+    
+    <item>
+      <title>Anlegen von GitHub account</title>
+      <link>https://git-workshop.epages.works/installation/windows-git/2_create-github-account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-git/2_create-github-account/</guid>
+      <description>Für die Übungen werden wir den am weitesten verbreiteten Online-Service für das Hosting von Git repositories nutzen. Bitte legen Sie sich hier einen kostenlosen Account dafür an:
+https://github.com/join
+Tip: Alternativen von GitHub sind z.B. GitLab und BitBucket.</description>
+    </item>
+    
+    <item>
+      <title>Anmerkungen hinzufügen</title>
+      <link>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</guid>
+      <description>Beim Überfahren der geänderten Zeilen mit dem Mauszeiger können sie einen blauen Button am Beginn der Zeile sehen.
+Wenn Sie diesen drücken öffnet sich eine Eingabemaske, in der Sie dem Autor des Pull Requests Feedback zu dieser Zeile geben können.</description>
+    </item>
+    
+    <item>
+      <title>Crabitur</title>
+      <link>https://git-workshop.epages.works/basics/5_crabitur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/5_crabitur/</guid>
+      <description>Curabitur id malesuada orci. Vestibulum mi magna, pharetra eu ex vitae, ullamcorper tincidunt neque. Maecenas mattis venenatis nibh vel cursus. Phasellus aliquet at orci id consequat. Aliquam aliquet, dolor nec aliquam mollis, tellus neque semper est, vitae pharetra nisi mauris quis augue. Fusce tristique hendrerit metus id consequat. Fusce rutrum venenatis odio, eu blandit lectus congue non. Pellentesque sit amet eleifend est. Proin convallis orci in orci tristique rhoncus. Aliquam fermentum orci vitae nunc bibendum accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Crabitur</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/5_crabitur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/5_crabitur/</guid>
+      <description>Curabitur id malesuada orci. Vestibulum mi magna, pharetra eu ex vitae, ullamcorper tincidunt neque. Maecenas mattis venenatis nibh vel cursus. Phasellus aliquet at orci id consequat. Aliquam aliquet, dolor nec aliquam mollis, tellus neque semper est, vitae pharetra nisi mauris quis augue. Fusce tristique hendrerit metus id consequat. Fusce rutrum venenatis odio, eu blandit lectus congue non. Pellentesque sit amet eleifend est. Proin convallis orci in orci tristique rhoncus. Aliquam fermentum orci vitae nunc bibendum accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Download und Installation</title>
+      <link>https://git-workshop.epages.works/installation/windows-git/3_download-and-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-git/3_download-and-installation/</guid>
+      <description>Bitte laden Sie von dieser Webseite GitHub Desktop für Windows herunter:
+https://desktop.github.com/
+Nach einem Doppelklick auf das heruntergeladene Installionsprogramm ist die GitHub Desktop App verfügbar und kann z.B. über die auf dem Schreibtisch angelegte Verknüpfung gestartet werden.</description>
+    </item>
+    
+    <item>
+      <title>Einführung</title>
+      <link>https://git-workshop.epages.works/installation/windows-git/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-git/1_introduction/</guid>
+      <description>Für Git gibt es verschiede grafische Benutzeroberflächen. Für den Einstieg werden wir eine einfache Option wählen und dort die Grundkonzepte lernen. Diese Grundkonzepte können dann in allen anderen Tools angewendet werden, die möglicherweise einen größeren Komfort bieten.
+Referenzen  Übersicht über grafische Git Clients  </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</guid>
+      <description>Code Reviews sind wichtig für professionelle Projekte um (1) das Wissen zu verteilen, (2) Fehler zu finden und (3) für einen hohe interne Qualität der Software zu sorgen.
+Dieses Tutorial beschreibt, wie man Code Reviews durchführen kann.
+Voraussetzungen  Um Code Reviews durchführen zu können, brauchen Sie von dem Besitzer des Repositories die Schreibberechtigung dazu. Jemand hat in dem Repository einen Pull Request gestellt.  Referenzen  How to keep up your code quality &amp;ndash; epages devs blog Inviting collaborators to a personal repository  </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/1_introduction/</guid>
+      <description>Das Ziel von diesem Tutorial ist es ein auf GitHub gehostetes Projekt auf den lokalen Rechner herunterzuladen.
+Voraussetzungen  GitHub Desktop wurde erfolgreich installiert. Bevor Sie mit dem Tutorial starten, sollte ein Texteditor wie VS Code, Atom oder Notepad++ auf Ihrem Rechner installiert sein.  </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/1_introduction/</guid>
+      <description>Nachdem wir das Übungsprojekt heruntergeladen haben können wir den ersten Pull Request dorthin stellen.
+Voraussetzungen  Neben der Bearbeitung des vorherigen Tutorials setzt dieses Tutorial vorraus, dass erfolgreich Hugo installiert wurde. Sie haben verstanden was ein Branch ist und warum man ihn braucht.  Referenzen  Hugo Quickstart Guide Markdown Syntax  </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</guid>
+      <description>Hugo ist ein Tool, womit statische HTML Seiten generiert werden können. Es wurde ausgewählt, da die Installation verhältnismäßig einfach ist und es ein sehr aktives Open Source Projekt ist. Somit kann in dem Git Workshop gemeinsam an einer Webseite gearbeitet werden, ohne dass Vorkenntnisse von bestimmten Programmiersprachen vorausgesetzt sind.
+Voraussetzungen Bevor Sie mit dem Tutorial starten, sollte ein Texteditor wie VS Code, Atom oder Notepad++ auf Ihrem Rechner installiert sein.</description>
+    </item>
+    
+    <item>
+      <title>Einrichtung von GitHub Desktop</title>
+      <link>https://git-workshop.epages.works/installation/windows-git/4_configure-github-desktop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-git/4_configure-github-desktop/</guid>
+      <description>Beim ersten Start der Anwendung sollte sie mit GitHub verknüpft werden.
+Überprüfen Sie, dass in der sich nach dem Klick auf diesen Button die Webseite &amp;ldquo;github.com&amp;rdquo; mit dem &amp;ldquo;https&amp;rdquo; Protokoll geöffnet hat und geben Sie dann ihren Benutzernamen und Ihr Passwort ein.
+Bestätigen Sie, dass GitHub Desktop in Ihrem Namen auf der GitHub Plattform agieren darf.
+Nach der Bestätigung von dem darauf folgenden Dialog werden die zu GitHub Desktop zurück geleitet und können die Konfiguration von Git abschließen.</description>
+    </item>
+    
+    <item>
+      <title>Entpacken von ZIP Datei</title>
+      <link>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</guid>
+      <description>Gehen Sie nun zu Ihrem Download-Ordner und klicken Sie mit der rechten Maustaste auf die heruntergeladene ZIP-Datei. Wählen Sie aus dem Kontextmenü &amp;ldquo;Alle extrahieren&amp;rdquo; aus. Nun öffnet sich ein Dialog welcher abfragt wohin die Dateien extrahiert werden sollen. Wählen Sie hier einen beliebigen Ordner aus, z.B. direkt in das Downloadverzeichnis:</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Branch</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/2_create-branch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/2_create-branch/</guid>
+      <description>Der erste Schritt vor dem Hinzufügen von Änderungen an kollaborativ bearbeiteten Projekten sollte es immer sein, einen Branch anzulegen.
+Wählen Sie dazu unter dem Menüpunkt &amp;ldquo;Branch&amp;rdquo; die Option &amp;ldquo;New Branch&amp;hellip;&amp;rdquo; aus.
+Welchen Namen Sie Ihrem Branch geben bleibt Ihnen überlassen.
+Nach der Bestätigung dieses Dialogs können Sie in der Kopfzeilen von GitHub Desktop sehen, dass der Branch von dem Haupt-Branch &amp;ldquo;master&amp;rdquo; auf den von Ihnen ausgewählten gewechselt hat.</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von erster Nachricht</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/3_create-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/3_create-post/</guid>
+      <description>Öffnen Sie nun die Eingabeaufforderung und wechseln Sie in das Projektverzeichnis:
+Windows:
+cd d:\src\misc\technologie-nachrichten MacOS / Linux:
+cd ~/src/misc/technologie-nachrichten Mit dem nächsten Befehl können wir mit Hilfe von Hugo automatisch eine neue Textdatei in dem Projekt anlegen. Starten Sie die Eingabe mit &amp;ldquo;hugo new&amp;rdquo;, gefolgt von dem Pfadelement &amp;ldquo;posts/&amp;quot;, dann Schlagworten für Ihre Nachrichtenmeldung und zum Schluss die Dateiendung &amp;ldquo;.md&amp;rdquo;.
+hugo new posts/workplace-analytics.md Tip: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Fork</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/2_fork-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/2_fork-project/</guid>
+      <description>Als Übungsprojekt werden wir im Folgenden das &amp;ldquo;Technologie Nachrichten&amp;rdquo; Projekt benutzen:
+https://github.com/experimental-software/technologie-nachrichten
+TODO: Das Repository muss noch angelegt werden.
+Besuchen Sie die Projektseite und klicken Sie dann auf den &amp;ldquo;Fork&amp;rdquo; Button rechts oben auf der Webseite.
+Wählen Sie in dem sich daraufhin öffnenden Dialog Ihren privaten GitHub Account als Ziel für den Fork aus.
+Nachdem die Fork Aktion fertig ist, klicken Sie auf den grünen &amp;ldquo;Code&amp;rdquo; Button und kopieren Sie sich dann die angezeigte HTTPS Clone URL.</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Pull Request</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/7_pull-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/7_pull-request/</guid>
+      <description>Wenn Sie Ihren Fork in der Weboberfläche öffnen, wird GitHub Sie über die Änderungen informieren und Ihnen auch dort anbieten einen Pull Request anzulegen.
+Klicken Sie auf den &amp;ldquo;Compare &amp;amp; pull request&amp;rdquo; Button, überprüfen Sie die unten auf der Seite angezeigten Änderungen und bestätigen Sie dann die Pull Request Erstellung mit einem Klick auf &amp;ldquo;Create pull request&amp;rdquo;.
+Nun ist Ihr Pull Request im &amp;ldquo;Pull requests&amp;rdquo; tab des Hauptprojektes sichtbar und kann von den Projekt-Betreuern dort aufgenommen werden.</description>
+    </item>
+    
+    <item>
+      <title>Etiam sit amet</title>
+      <link>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</guid>
+      <description>Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante. Integer tempor lacus ex, eget aliquam urna finibus ac. Nam non neque eu lorem consectetur molestie. Maecenas dignissim neque elementum, consectetur eros non, aliquet nulla. Donec vel dignissim magna. Nullam commodo sed sapien eget accumsan. Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Etiam sit amet</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</guid>
+      <description>Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante. Integer tempor lacus ex, eget aliquam urna finibus ac. Nam non neque eu lorem consectetur molestie. Maecenas dignissim neque elementum, consectetur eros non, aliquet nulla. Donec vel dignissim magna. Nullam commodo sed sapien eget accumsan. Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus.</description>
+    </item>
+    
+    <item>
+      <title>git clone</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/3_git-clone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/3_git-clone/</guid>
+      <description>Öffnen Sie nun GitHub Desktop und wählen Sie den Menüpunkt &amp;ldquo;File &amp;gt; Clone Repository&amp;rdquo; aus.
+Führen Sie in dem sich daraufhin öffnenden Dialog folgende Schritte durch:
+ Wechseln Sie zu dem Tab &amp;ldquo;URL&amp;rdquo; Tragen Sie in dem Eingabefeld für die Repository URL die im vorherigen Schritt kopierte HTTPS Clone URL ein Prüfen Sie, dass das Projekt an eine geeignete Stelle auf Ihrem Rechner heruntergeladen wird. Ggf. Können Sie über den Button rechts von dem Eingabefeld ein anderes Zielverzeichnis auswählen.</description>
+    </item>
+    
+    <item>
+      <title>git commit</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</guid>
+      <description>Nun da wir sehen dass die Änderungen erfolgreich in die Webseite übernommen sind, können wir einen Commit für die neu angelegte Markdown Datei anzeigen. Gehen Sie dazu zurück zu GitHub Desktop. Die neue Datei sollte dort schon vorausgewählt sein, um in den Commit mit aufgenommen zu werden.
+Nun können Sie mit einem Klick auf den blauen Button links unten in GitHub Desktop einen Commit auf dem aktuellen Branch anlegen. Wenn Sie in dem Eingabefeld links neben Ihrem Profilbild nichts eintragen wird der graue Vorgabetext als Commit Message verwendet, was für den Anfang gut genug ist.</description>
+    </item>
+    
+    <item>
+      <title>git push</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/6_git-push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/6_git-push/</guid>
+      <description>Nun klicken Sie auf den &amp;ldquo;Publish branch&amp;rdquo; Button, um die lokal ausgeführten Aktionen zu ihrem Fork auf GitHub zu publizieren.
+An dieser Stelle erscheint dann ein Button &amp;ldquo;Create Pull Request&amp;rdquo;. Der Übung halber erstellen wir den Pull Request jedoch für&amp;rsquo;s erste in der Weboberfläche.</description>
+    </item>
+    
+    <item>
+      <title>Herunterladen von Release Packet</title>
+      <link>https://git-workshop.epages.works/installation/windows-hugo/2_download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-hugo/2_download/</guid>
+      <description>Die Releases von Hugo sind auf dieser Webseite zu finden:
+https://github.com/gohugoio/hugo/releases
+Scrollen Sie in dem neusten Release bis zu dem Link für die ZIP-Datei für Windows. Nach einem einfachen Klick auf diesen Link startet der Download automatisch.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://git-workshop.epages.works/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/imprint/</guid>
+      <description>    window.location.href = &#34;https://epages.com/de/impressum&#34;;    </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://git-workshop.epages.works/basics/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/1_introduction/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/1_introduction/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+    <item>
+      <title>Konfiguration von Umgebungsvariablen</title>
+      <link>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</guid>
+      <description>Gehen Sie nun zu der Sucheingabe der Windows Hauptnavigation und geben Sie dort das Wort &amp;ldquo;Umgebungsvariablen&amp;rdquo; ein. Nach dem Öffnen des daraufhin gefundenen Programm öffnet sich der folgende Dialog, in welchem Sie als nächstes den Button &amp;ldquo;Umgebungsvariablen&amp;rdquo; drücken:
+Hier wollen wir die Variable &amp;ldquo;Path&amp;rdquo; bearbeiten:
+Hier muss nun der Ordner eingetragen werden, in den Hugo extrahiert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Nam eget ex</title>
+      <link>https://git-workshop.epages.works/basics/4_nam-eget-ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/4_nam-eget-ex/</guid>
+      <description>Nam eget ex a diam tempor auctor. Proin tincidunt augue vitae sagittis malesuada. Suspendisse potenti. Vivamus at varius purus. Aenean sit amet ante rutrum, imperdiet ex ut, condimentum nisi. Pellentesque semper sem vel aliquam varius. Vivamus congue aliquet lectus vitae semper.</description>
+    </item>
+    
+    <item>
+      <title>Nam eget ex</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/4_nam-eget-ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/4_nam-eget-ex/</guid>
+      <description>Nam eget ex a diam tempor auctor. Proin tincidunt augue vitae sagittis malesuada. Suspendisse potenti. Vivamus at varius purus. Aenean sit amet ante rutrum, imperdiet ex ut, condimentum nisi. Pellentesque semper sem vel aliquam varius. Vivamus congue aliquet lectus vitae semper.</description>
+    </item>
+    
+    <item>
+      <title>Pull Request mergen</title>
+      <link>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</guid>
+      <description>Wechseln Sie danach in das &amp;ldquo;Conversation&amp;rdquo; Tab in den Pull Request Details und scrollen Sie ganz nach unten. Dort können Sie dann über den &amp;ldquo;Merge pull request&amp;rdquo; Button den Pull Request in den Hauptzweig des Repositories mergen.</description>
+    </item>
+    
+    <item>
+      <title>Pull Request öffnen</title>
+      <link>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</guid>
+      <description>Gehen Sie auf das Hauptprojekt und öffnen Sie dort das &amp;ldquo;Pull Requests&amp;rdquo; Tab.
+https://github.com/ePages-de/technologie-nachrichten/pulls
+In den Details zu dem Pull Request, wechsel Sie zu dem &amp;ldquo;Files changed&amp;rdquo; Tab.</description>
+    </item>
+    
+    <item>
+      <title>Quisque ultricies</title>
+      <link>https://git-workshop.epages.works/basics/2_quisque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/2_quisque/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+    <item>
+      <title>Quisque ultricies</title>
+      <link>https://git-workshop.epages.works/collaboration/merge-conflicts/2_quisque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/2_quisque/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
+    </item>
+    
+    <item>
+      <title>Review abschließen</title>
+      <link>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</guid>
+      <description>Wenn Sie mit Ihrem Review fertig sind, drücken Sie den Button rechts oben mit der Aufschrift &amp;ldquo;Finish your review&amp;rdquo;.
+Bevor Sie den sich daraufhin öffnenden Dialog bestätigen, müssen Sie entscheiden ob Sie den Pull Request nur Kommentieren möchten, ob Sie den Pull Request genehmigen oder Änderungen anfordern wollen.
+Der Autor des Pull Requests bekommt daraufhin von GitHub eine Email als Notifikation für Ihr Feedback.</description>
+    </item>
+    
+    <item>
+      <title>Testen der Installation</title>
+      <link>https://git-workshop.epages.works/installation/windows-hugo/5_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/installation/windows-hugo/5_test/</guid>
+      <description>Als nächstes gehen wir zurück zu der Sucheingabe des Windows Hauptmenü, geben dort &amp;ldquo;Eingabeaufforderung&amp;rdquo; ein und öffnen das Programm was daraufhin gefunden wird.
+Wenn daraufhin das Kommando &amp;ldquo;hugo version&amp;rdquo; eingegeben und bestätigt wird, sollte Hugo berichten mit welcher Version es installiert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Vorschau der generierten Webseite</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/4_preview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/4_preview/</guid>
+      <description>Um sich eine Vorschau der Webseite mit Ihrem neuen Artikel anzusehen, gehen Sie zurück zur Eingabeaufforderung, welche sich immernoch in dem Projektverzeichnis befinden sollte. Geben Sie nun dort das folgende Kommando ein:
+hugo server -D Daraufhin wird &amp;ldquo;hugo&amp;rdquo; den HTML Code generieren und die Webseite mit einem lokalen Webserver starten. Um sich diese anzeigen zu lassen, wechseln Sie zu einem Webbrowser und geben Sie dort in die Adresszeile folgende Adresse ein:</description>
+    </item>
+    
+    <item>
+      <title>Öffnen von lokalen Dateien</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</guid>
+      <description>Wenn Ihr Texteditor richtig von GitHub Desktop erkannt wurde, können Sie nach der Verarbeitung von dem &amp;ldquo;git clone&amp;rdquo; Befehl einen Button mit der Beschriftung &amp;ldquo;Open in &amp;rdquo;, in dem folgenden Beispiel &amp;ldquo;Open in Atom&amp;rdquo;:
+Tip: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+Daraufhin sollte sich der von Ihnen bevorzugte Texteditor in dem Verzeichnis von dem Übungsprojekt öffnen.</description>
+    </item>
+    
+  </channel>
+</rss>
