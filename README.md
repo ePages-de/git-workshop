@@ -2,6 +2,17 @@
 
 This prepository contains the source code for Git workshop materials.
 
+## Content authoring
+
+### Tutorials
+
+The Git tutorials are authored with the help of [Markdown](https://www.markdownguide.org/basic-syntax) code.
+
+### Presentations
+
+The presentations are authored with the help of plain HTML code.
+
+
 ## Development
 
 ### Run Hugo server
