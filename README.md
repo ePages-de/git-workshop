@@ -4,9 +4,9 @@ This prepository contains the source code for Git workshop materials.
 
 ## Dependencies
 
-- git
-- Hugo
-- A text editor (e.g. VS Code, Atom, or Notepad++)
+- [git](https://github.com/ePages-de/git-workshop/wiki/Git): The version control system which is used for this project 
+- [Hugo](https://github.com/ePages-de/git-workshop/wiki/Hugo): The static site generator used to build the website
+- Any text editor (e.g. [VS Code](https://github.com/ePages-de/git-workshop/wiki/VS-Code), [Atom](https://github.com/ePages-de/git-workshop/wiki/Atom), or [Notepad++](https://notepad-plus-plus.org/))
 
 ## Content authoring
 
@@ -53,7 +53,6 @@ To generate the HTML for publication, run the following command:
 ```
 hugo --destination docs/
 ```
-
 
 ## Credits
 
