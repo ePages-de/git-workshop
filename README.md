@@ -1,6 +1,6 @@
 # Git Workshop Materials
 
-This prepository contains the source code for Git workshop materials.
+This repository contains the source code for Git workshop materials.
 
 ## Dependencies
 
