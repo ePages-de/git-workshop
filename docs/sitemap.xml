@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://git-workshop.epages.works/slides/overview-github/</loc>
+  </url>
+  
+  <url>
     <loc>https://git-workshop.epages.works/slides/basic-concepts/</loc>
   </url>
   
@@ -32,10 +36,6 @@
   
   <url>
     <loc>https://git-workshop.epages.works/slides/everyday-collaboration/</loc>
-  </url>
-  
-  <url>
-    <loc>https://git-workshop.epages.works/slides/oveview-github/</loc>
   </url>
   
   <url>
@@ -131,19 +131,35 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/oveview-github/00_title/</loc>
+    <loc>https://git-workshop.epages.works/slides/overview-github/00_title/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/oveview-github/01_agenda/</loc>
+    <loc>https://git-workshop.epages.works/slides/overview-github/01_agenda/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/oveview-github/02_first-topic/</loc>
+    <loc>https://git-workshop.epages.works/slides/overview-github/02_features/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/oveview-github/99_summary/</loc>
+    <loc>https://git-workshop.epages.works/slides/overview-github/03_private-accounts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/overview-github/04_repository-anlegen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/overview-github/05_repository-details/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/overview-github/06_github-pages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/overview-github/07_organisationen/</loc>
   </url>
   
   <url>
