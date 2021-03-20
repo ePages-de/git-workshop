@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Your title here</title>
+		<title>Zusammenarbeit im Berufsalltag</title>
 
 		<link rel="stylesheet" href="/reveal.js/dist/reset.css">
 		<link rel="stylesheet" href="/reveal.js/dist/reveal.css">
@@ -20,7 +20,7 @@
 				
 						
 <section>
-  <h1>Introduction to Linux</h1>
+  <h1>Zusammenarbeit</h1>
 </section>
 
 				
@@ -28,33 +28,104 @@
 <section>
   <h2>Agenda</h2>
   
-  <ul>
-    <li>Subject one</li>
-    <li>Subject two</li>
-    <li>Subject three</li>
-  </ul>
+  <ol>
+    <li class="fragment">Scrum Team</li>
+    <li class="fragment">Ticket erstellen</li>
+    <li class="fragment">Branch anlegen</li>
+    <li class="fragment">Pull Request erstellen</li>
+    <li class="fragment">Code review</li>
+    <li class="fragment">Deployment</li>
+  </ol>
   
 </section>
 
 				
 						
 <section>
-  <h2>🐳</h2>
-  <section>
-      <h3>Nested Section 1</h3>
-      Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.
-  </section>
+  <h2>Scrum Team</h2>
   
-  <section>
-    <h3>Nested Section 2</h3>
-    Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti. Donec vitae dictum elit. Phasellus at ante mattis, porttitor nisl vulputate, pretium augue.
-  </section>
+  <img src="img/scrum-team.png">
+
 </section>
 
 				
 						
-<section data-background-color="rgb(70, 70, 255)">
-  <h2>🐳</h2>
+<section>
+  <h2>Ticket</h2>
+  
+  <img src="img/example-issue.png" style="max-width: 550px;">
+</section>
+
+				
+						
+<section>
+  <h2>Branch erstellen</h2>
+  
+  <pre><code data-trim data-noescape>
+  
+  git checkout main
+  git pull upstream main
+  git checkout -b issue/GH-9_image-size
+  
+  </code></pre>
+</section>
+
+				
+						
+<section>
+  <h2>Pull Request erstellen</h2>
+  
+  <pre><code data-trim data-noescape>
+  
+  git add .
+  git commit -m "GH-9: Scale down large images in tutorials"
+  git push origin issue/GH-9_image-size
+  
+  </code></pre>
+  
+  <aside class="notes">
+    
+    <ul>
+      <li>nach dem PR, warten auf Testergebnisse</li>
+    </ul>
+    
+  </aside>
+</section>
+
+				
+						
+<section>
+  <h2>Code review</h2>
+  
+  <img src="img/approve-review.png">
+  
+  <aside class="notes">
+    <ul>
+      <li>ggf. "Request changes"</li>
+      <li>letztendlich "Approve"</li>
+    </ul>
+  </aside>
+</section>
+
+				
+						
+<section>
+  <h2>Deployment</h2>
+  
+  <ol>
+    <li class="fragment">Ausführung von Unit Tests</li>
+    <li class="fragment">Generierung von Release</li>
+    <li class="fragment">Testen von Release</li>
+    <li class="fragment">Automatisches Ausrollen</li>
+  </ol>
+</section>
+
+				
+						
+<section>
+  <h2>Zusammenfassung</h2>
+  
+  <img src="img/workflow.png">
 </section>
 
 				
@@ -72,6 +143,7 @@
 			
 			Reveal.initialize({
 				hash: true,
+				center: true,
 
 				
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]

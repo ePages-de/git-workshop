@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your title here on Git Workshop</title>
+    <title>Zusammenarbeit im Berufsalltag on Git Workshop</title>
     <link>https://git-workshop.epages.works/slides/everyday-collaboration/</link>
-    <description>Recent content in Your title here on Git Workshop</description>
+    <description>Recent content in Zusammenarbeit im Berufsalltag on Git Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://git-workshop.epages.works/slides/everyday-collaboration/00_title/</guid>
-      <description>  Introduction to Linux  </description>
+      <description>  Zusammenarbeit  </description>
     </item>
     
     <item>
@@ -25,25 +25,70 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://git-workshop.epages.works/slides/everyday-collaboration/01_agenda/</guid>
-      <description>  Agenda  Subject one Subject two Subject three   </description>
+      <description>  Agenda  Scrum Team Ticket erstellen Branch anlegen Pull Request erstellen Code review Deployment   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://git-workshop.epages.works/slides/everyday-collaboration/02_first-topic/</link>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/02_scrum-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/02_first-topic/</guid>
-      <description>🐳  Nested Section 1 Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante.   Nested Section 2 Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus. Nulla sit amet felis eu mauris gravida scelerisque et quis urna. Aliquam erat volutpat. Nunc in congue lectus. Suspendisse potenti.</description>
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/02_scrum-team/</guid>
+      <description>  Scrum Team  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://git-workshop.epages.works/slides/everyday-collaboration/99_summary/</link>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/03_ticket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/99_summary/</guid>
-      <description> 🐳  </description>
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/03_ticket/</guid>
+      <description>  Ticket  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/04_create-branch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/04_create-branch/</guid>
+      <description>  Branch erstellen git checkout main git pull upstream main git checkout -b issue/GH-9_image-size   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/05_create-pr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/05_create-pr/</guid>
+      <description>  Pull Request erstellen git add . git commit -m &#34;GH-9: Scale down large images in tutorials&#34; git push origin issue/GH-9_image-size   nach dem PR, warten auf Testergebnisse    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/06_code-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/06_code-review/</guid>
+      <description>  Code review  ggf. &#34;Request changes&#34; letztendlich &#34;Approve&#34;    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/07_deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/07_deployment/</guid>
+      <description>  Deployment  Ausführung von Unit Tests Generierung von Release Testen von Release Automatisches Ausrollen   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/everyday-collaboration/08_zusammenfassung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/everyday-collaboration/08_zusammenfassung/</guid>
+      <description>  Zusammenfassung  </description>
     </item>
     
   </channel>
