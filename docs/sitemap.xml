@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/</loc>
+  </url>
+  
+  <url>
     <loc>https://git-workshop.epages.works/collaboration/git-clone/</loc>
   </url>
   
@@ -20,10 +24,6 @@
   
   <url>
     <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://git-workshop.epages.works/slides/basic-concepts/</loc>
   </url>
   
   <url>
@@ -71,7 +71,7 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/basic-concepts/00_title/</loc>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/00_titel/</loc>
   </url>
   
   <url>
@@ -79,11 +79,23 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/basic-concepts/02_first-topic/</loc>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/02_definition-scm/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/slides/basic-concepts/99_summary/</loc>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/03_motivation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/04_vorstellung-git/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/05_grundbegriffe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/slides/basic-concepts/06_zusammenfassung/</loc>
   </url>
   
   <url>
