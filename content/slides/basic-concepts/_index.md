@@ -1,5 +1,5 @@
 ---
-title: Your title here
+title: Grundkonzepte von Git
 type: presentation
 theme: moon
 weight: 1
