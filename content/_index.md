@@ -1,8 +1,5 @@
 ---
 tagline: Grundlagen für die Zusammenarbeit an Softwareprojekten
-primaryLinkIcon: fas fa-external-link-alt
-primaryLinkText: Join us!
-primaryLinkHref: https://developer.epages.com/about
 ---
 
 # Herzlich Willkommen!
