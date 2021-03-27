@@ -1,6 +1,6 @@
 ---
 title: Sponsoren
-teaser: Unternehmen und Universitäten welche das Projekt unterstützen
+teaser: Organisationen welche das Projekt unterstützen
 icon: fas fa-comments
 weight: 6
 ---
