@@ -27,6 +27,10 @@
   </url>
   
   <url>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/</loc>
+  </url>
+  
+  <url>
     <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/</loc>
   </url>
   
@@ -195,7 +199,7 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/basics/5_crabitur/</loc>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/4_clone-desktop/</loc>
   </url>
   
   <url>
@@ -208,6 +212,10 @@
   
   <url>
     <loc>https://git-workshop.epages.works/installation/windows-git/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/1_einleitung/</loc>
   </url>
   
   <url>
@@ -251,11 +259,11 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</loc>
+    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</loc>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/2_formular/</loc>
   </url>
   
   <url>
@@ -263,7 +271,15 @@
   </url>
   
   <url>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/6_git-commit/</loc>
+  </url>
+  
+  <url>
     <loc>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/7_git-push/</loc>
   </url>
   
   <url>
@@ -275,11 +291,11 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/imprint/</loc>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/5_datei-anlegen/</loc>
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/basics/1_introduction/</loc>
+    <loc>https://git-workshop.epages.works/imprint/</loc>
   </url>
   
   <url>
@@ -291,7 +307,7 @@
   </url>
   
   <url>
-    <loc>https://git-workshop.epages.works/basics/4_nam-eget-ex/</loc>
+    <loc>https://git-workshop.epages.works/basics/repo-via-ui/3_repo-details/</loc>
   </url>
   
   <url>
@@ -304,10 +320,6 @@
   
   <url>
     <loc>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</loc>
-  </url>
-  
-  <url>
-    <loc>https://git-workshop.epages.works/basics/2_quisque/</loc>
   </url>
   
   <url>

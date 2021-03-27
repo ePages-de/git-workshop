@@ -284,12 +284,13 @@ Wenn Sie diesen drücken öffnet sich eine Eingabemaske, in der Sie dem Autor de
     </item>
     
     <item>
-      <title>Crabitur</title>
-      <link>https://git-workshop.epages.works/basics/5_crabitur/</link>
+      <title>Clonen in GitHub Desktop</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/4_clone-desktop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://git-workshop.epages.works/basics/5_crabitur/</guid>
-      <description>Curabitur id malesuada orci. Vestibulum mi magna, pharetra eu ex vitae, ullamcorper tincidunt neque. Maecenas mattis venenatis nibh vel cursus. Phasellus aliquet at orci id consequat. Aliquam aliquet, dolor nec aliquam mollis, tellus neque semper est, vitae pharetra nisi mauris quis augue. Fusce tristique hendrerit metus id consequat. Fusce rutrum venenatis odio, eu blandit lectus congue non. Pellentesque sit amet eleifend est. Proin convallis orci in orci tristique rhoncus. Aliquam fermentum orci vitae nunc bibendum accumsan.</description>
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/4_clone-desktop/</guid>
+      <description>Öffnen Sie nun GitHub Desktop. Wählen Sie dann mit Hauptmenu &amp;ldquo;File &amp;gt; Clone Repository&amp;rdquo; aus. In dem sich öffnenden Dialog, gehen Sie zu dem Tab &amp;ldquo;URL&amp;rdquo;. Fügen Sie dann die URL in der Zwischenablage in das Eingabefeld ein. Prüfen Sie, ob in &amp;ldquo;Local Path&amp;rdquo; der richtige Pfad eingetragen ist, in das Sie das Repository kopieren möchten. Klicken Sie schließlich auf den &amp;ldquo;Clone&amp;rdquo; button.
+Es öffnet sich daraufhin in GitHub Desktop das geklonte Repository.</description>
     </item>
     
     <item>
@@ -320,6 +321,15 @@ Nach einem Doppelklick auf das heruntergeladene Installionsprogramm ist die GitH
       <guid>https://git-workshop.epages.works/installation/windows-git/1_introduction/</guid>
       <description>Für Git gibt es verschiede grafische Benutzeroberflächen. Für den Einstieg werden wir eine einfache Option wählen und dort die Grundkonzepte lernen. Diese Grundkonzepte können dann in allen anderen Tools angewendet werden, die möglicherweise einen größeren Komfort bieten.
 Referenzen  Übersicht über grafische Git Clients  </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/1_einleitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/1_einleitung/</guid>
+      <description>Dieses Tutorial beschreibt, wie man neue Repositories anlegen kann, mit Hilfe der GitHub Webseite. Weiterhin beinhaltet es wie man es dann auf den lokalen Rechner bekommt, eine einfache Textdatei anlegt und dann auf der GitHub Webseite sichtbar macht.</description>
     </item>
     
     <item>
@@ -436,20 +446,22 @@ Nun ist Ihr Pull Request im &amp;ldquo;Pull requests&amp;rdquo; tab des Hauptpro
     
     <item>
       <title>Etiam sit amet</title>
-      <link>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/basics/3_etiam-sit-amet/</guid>
-      <description>Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante. Integer tempor lacus ex, eget aliquam urna finibus ac. Nam non neque eu lorem consectetur molestie. Maecenas dignissim neque elementum, consectetur eros non, aliquet nulla. Donec vel dignissim magna. Nullam commodo sed sapien eget accumsan. Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus.</description>
-    </item>
-    
-    <item>
-      <title>Etiam sit amet</title>
       <link>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://git-workshop.epages.works/collaboration/merge-conflicts/3_etiam-sit-amet/</guid>
       <description>Etiam sit amet tincidunt dolor. Mauris ante arcu, finibus tempus turpis quis, varius bibendum enim. Maecenas nisl metus, ultrices in gravida vitae, lacinia eu est. Nullam hendrerit ligula ante. Integer tempor lacus ex, eget aliquam urna finibus ac. Nam non neque eu lorem consectetur molestie. Maecenas dignissim neque elementum, consectetur eros non, aliquet nulla. Donec vel dignissim magna. Nullam commodo sed sapien eget accumsan. Nullam posuere sapien sit amet sapien suscipit, non faucibus sem faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Formular zum Anlegen</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/2_formular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/2_formular/</guid>
+      <description>Nach dem Einloggen auf der GitHub Webseite sieht man rechts oben ein Plus-Symbol. Wenn man dort drauf klickt öffnet sich ein Kontext-Menü, worin man dann &amp;ldquo;New repository&amp;rdquo; auswählen kann.
+Daraufhin öffnet sich eine Seite mit einem Formlar zu den Details für das neue Repository.
+Wichtig hierbei ist neben einem Name für das Repository, ob es öffentlich oder privat sein soll. Öffentlich heißt, jede/r der Ihr Profil auf der GitHub Webseite besucht kann es sehen.</description>
     </item>
     
     <item>
@@ -465,12 +477,33 @@ Führen Sie in dem sich daraufhin öffnenden Dialog folgende Schritte durch:
     
     <item>
       <title>git commit</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/6_git-commit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/6_git-commit/</guid>
+      <description>Gehen Sie nun zurück zu GitHub Desktop. Es wird Ihnen hier angezeigt welche Dateien sich geändert haben. Sie können nun auswählen, welche der Änderungen in den Commit beinhaltet sein sollen. In diesem Fall wollen wir alle Änderungen in den Commit packen, was die Voreinstellung ist.
+Drücken Sie daher einfach auf den &amp;ldquo;Commit to main&amp;rdquo; Button, um den Commit zu erstellen.</description>
+    </item>
+    
+    <item>
+      <title>git commit</title>
       <link>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</guid>
       <description>Nun da wir sehen dass die Änderungen erfolgreich in die Webseite übernommen sind, können wir einen Commit für die neu angelegte Markdown Datei anzeigen. Gehen Sie dazu zurück zu GitHub Desktop. Die neue Datei sollte dort schon vorausgewählt sein, um in den Commit mit aufgenommen zu werden.
 Nun können Sie mit einem Klick auf den blauen Button links unten in GitHub Desktop einen Commit auf dem aktuellen Branch anlegen. Wenn Sie in dem Eingabefeld links neben Ihrem Profilbild nichts eintragen wird der graue Vorgabetext als Commit Message verwendet, was für den Anfang gut genug ist.</description>
+    </item>
+    
+    <item>
+      <title>git push</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/7_git-push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/7_git-push/</guid>
+      <description>Nach der Erstellung des Commit zeigt Ihnen GitHub Desktop an, dass Ihr lokaler Branch einen Commit mehr hat, als der Branch den Sie remote auf GitHub haben.
+Um diesen Commit dem remote Repository bekannt zu machen, müssen Sie den &amp;ldquo;git push&amp;rdquo; Befehl ausführen. GitHub Desktop macht diese einfach, indem Sie nur den &amp;ldquo;Push origin&amp;rdquo; Button dafür klicken brauchen.
+Wenn Sie sich nun Ihr Repository auf GitHub anschauen, können Sie nun die von Ihnen neu erstellte Datei finden.</description>
     </item>
     
     <item>
@@ -495,21 +528,22 @@ Scrollen Sie in dem neusten Release bis zu dem Link für die ZIP-Datei für Wind
     </item>
     
     <item>
+      <title>HTML Datei anlegen</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/5_datei-anlegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/5_datei-anlegen/</guid>
+      <description>Texteditor öffnen Öffen Sie nun den Dateisystem-Order mit dem geklonten Repository mit Ihrem Texteditor. GitHub Desktop hilft dabei, indem es auf der Startseite von dem Repository einen Button anbieten, um mit dem eingestellten Texteditor das Projekt zu öffnen.
+Tip: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &amp;ldquo;Preferences&amp;rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &amp;ldquo;Integrations&amp;rdquo; Tab wechseln.</description>
+    </item>
+    
+    <item>
       <title>Imprint</title>
       <link>https://git-workshop.epages.works/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://git-workshop.epages.works/imprint/</guid>
       <description>    window.location.href = &#34;https://epages.com/de/impressum&#34;;    </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://git-workshop.epages.works/basics/1_introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/basics/1_introduction/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
     </item>
     
     <item>
@@ -533,12 +567,12 @@ Hier muss nun der Ordner eingetragen werden, in den Hugo extrahiert wurde.</desc
     </item>
     
     <item>
-      <title>Nam eget ex</title>
-      <link>https://git-workshop.epages.works/basics/4_nam-eget-ex/</link>
+      <title>Kopieren von Clone URL</title>
+      <link>https://git-workshop.epages.works/basics/repo-via-ui/3_repo-details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://git-workshop.epages.works/basics/4_nam-eget-ex/</guid>
-      <description>Nam eget ex a diam tempor auctor. Proin tincidunt augue vitae sagittis malesuada. Suspendisse potenti. Vivamus at varius purus. Aenean sit amet ante rutrum, imperdiet ex ut, condimentum nisi. Pellentesque semper sem vel aliquam varius. Vivamus congue aliquet lectus vitae semper.</description>
+      <guid>https://git-workshop.epages.works/basics/repo-via-ui/3_repo-details/</guid>
+      <description>Das Herunterladen von Git Repositories auf den lokalen Rechner wird als &amp;ldquo;clone&amp;rdquo; bezeichnet. Um dies im nächsten Schritt durchzuführen, kopieren Sie die &amp;ldquo;Clone URL&amp;rdquo; in den Zwischenspeicher, indem Sie auf der Repository-Hauptseite auf den grünen &amp;ldquo;Code&amp;rdquo; Button klicken (1), und danach auf das Kopier-Icon (2).</description>
     </item>
     
     <item>
@@ -568,15 +602,6 @@ Hier muss nun der Ordner eingetragen werden, in den Hugo extrahiert wurde.</desc
       <description>Gehen Sie auf das Hauptprojekt und öffnen Sie dort das &amp;ldquo;Pull Requests&amp;rdquo; Tab.
 https://github.com/ePages-de/technologie-nachrichten/pulls
 In den Details zu dem Pull Request, wechsel Sie zu dem &amp;ldquo;Files changed&amp;rdquo; Tab.</description>
-    </item>
-    
-    <item>
-      <title>Quisque ultricies</title>
-      <link>https://git-workshop.epages.works/basics/2_quisque/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/basics/2_quisque/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Curabitur vulputate eros sed hendrerit accumsan. Vestibulum elementum tellus pulvinar massa consequat, quis mattis odio ornare. Donec ac sem ut turpis dapibus laoreet ac sed leo. Sed sed lectus vel risus pharetra molestie. Etiam ac eros sed urna dapibus consectetur.</description>
     </item>
     
     <item>
