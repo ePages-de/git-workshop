@@ -1,5 +1,5 @@
 ---
-title: Herunterladen von GitHub Projekt
+title: Herunterladen von GitHub Projekt (alt)
 type: tutorial
-weight: 1
+weight: 9
 ---

@@ -1,5 +1,5 @@
 ---
-title: Your title here
+title: Auflösen von Merge Konflikten
 type: tutorial
-weight: 1
+weight: 4
 ---
