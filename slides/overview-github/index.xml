@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einstieg GitHub on Git Workshop</title>
+    <link>https://git-workshop.epages.works/slides/overview-github/</link>
+    <description>Recent content in Einstieg GitHub on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/slides/overview-github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/00_title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/00_title/</guid>
+      <description>  Einstieg GitHub  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/01_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/01_agenda/</guid>
+      <description>  Agenda  Features Private Accounts Repositories Organisationen   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/02_features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/02_features/</guid>
+      <description>Features  Hosting Open Source Projekte Organisationen Individuen Projektverwaltung GitHub Pages ...   Hosting Open Source Projekte  Quasi standard Alternativen: GitLab, BitBucket Linux, OpenJDK, Kubernetes  Organisationen  Einnahmequelle: $4 / Nutzer / Monat Private Repositories Team Verwaltung (Berechtigungen usw.)  Individuen  Kostenlos (mit Einschränkungen) Private Projekte Öffentliche Projekte (alle Features)  Projektverwaltung  Issues: Beschreibung von Features und Bugs Projects: Boards für Projekte  GitHub Pages  Statische Webseiten direkt aus Repository Fungiert als Webserver  .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/03_private-accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/03_private-accounts/</guid>
+      <description>   Privater Account   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/04_repository-anlegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/04_repository-anlegen/</guid>
+      <description>   Repository anlegen   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/05_repository-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/05_repository-details/</guid>
+      <description>   Repository Details   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/06_github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/06_github-pages/</guid>
+      <description>   GitHub Pages   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://git-workshop.epages.works/slides/overview-github/07_organisationen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/slides/overview-github/07_organisationen/</guid>
+      <description>  Organisationen  verwaltet Repositories Öffentliche Repositories als Aushängeschild  Siehe https://github.com/ePages-de in privatem Fenster  Teams  Übersicht über Teams Personen zu Teams zuweisen Berechtigungen für Teams     </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erstellung von Pull Request on Git Workshop</title>
+    <link>https://git-workshop.epages.works/collaboration/pull-request/</link>
+    <description>Recent content in Erstellung von Pull Request on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/collaboration/pull-request/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/1_introduction/</guid>
+      <description>Nachdem wir das Übungsprojekt heruntergeladen haben können wir den ersten Pull Request dorthin stellen.
+Voraussetzungen  Neben der Bearbeitung des vorherigen Tutorials setzt dieses Tutorial vorraus, dass erfolgreich Hugo installiert wurde. Sie haben verstanden was ein Branch ist und warum man ihn braucht.  Referenzen  Hugo Quickstart Guide Markdown Syntax  </description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Branch</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/2_create-branch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/2_create-branch/</guid>
+      <description>Der erste Schritt vor dem Hinzufügen von Änderungen an kollaborativ bearbeiteten Projekten sollte es immer sein, einen Branch anzulegen.
+Wählen Sie dazu unter dem Menüpunkt &amp;ldquo;Branch&amp;rdquo; die Option &amp;ldquo;New Branch&amp;hellip;&amp;rdquo; aus.
+Welchen Namen Sie Ihrem Branch geben bleibt Ihnen überlassen.
+Nach der Bestätigung dieses Dialogs können Sie in der Kopfzeilen von GitHub Desktop sehen, dass der Branch von dem Haupt-Branch &amp;ldquo;master&amp;rdquo; auf den von Ihnen ausgewählten gewechselt hat.</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von erster Nachricht</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/3_create-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/3_create-post/</guid>
+      <description>Öffnen Sie nun die Eingabeaufforderung und wechseln Sie in das Projektverzeichnis:
+Windows:
+cd d:\src\misc\technologie-nachrichten MacOS / Linux:
+cd ~/src/misc/technologie-nachrichten Mit dem nächsten Befehl können wir mit Hilfe von Hugo automatisch eine neue Textdatei in dem Projekt anlegen. Starten Sie die Eingabe mit &amp;ldquo;hugo new&amp;rdquo;, gefolgt von dem Pfadelement &amp;ldquo;posts/&amp;quot;, dann Schlagworten für Ihre Nachrichtenmeldung und zum Schluss die Dateiendung &amp;ldquo;.md&amp;rdquo;.
+hugo new posts/workplace-analytics.md Tip: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Pull Request</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/7_pull-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/7_pull-request/</guid>
+      <description>Wenn Sie Ihren Fork in der Weboberfläche öffnen, wird GitHub Sie über die Änderungen informieren und Ihnen auch dort anbieten einen Pull Request anzulegen.
+Klicken Sie auf den &amp;ldquo;Compare &amp;amp; pull request&amp;rdquo; Button, überprüfen Sie die unten auf der Seite angezeigten Änderungen und bestätigen Sie dann die Pull Request Erstellung mit einem Klick auf &amp;ldquo;Create pull request&amp;rdquo;.
+Nun ist Ihr Pull Request im &amp;ldquo;Pull requests&amp;rdquo; tab des Hauptprojektes sichtbar und kann von den Projekt-Betreuern dort aufgenommen werden.</description>
+    </item>
+    
+    <item>
+      <title>git commit</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/5_git-commit/</guid>
+      <description>Nun da wir sehen dass die Änderungen erfolgreich in die Webseite übernommen sind, können wir einen Commit für die neu angelegte Markdown Datei anzeigen. Gehen Sie dazu zurück zu GitHub Desktop. Die neue Datei sollte dort schon vorausgewählt sein, um in den Commit mit aufgenommen zu werden.
+Nun können Sie mit einem Klick auf den blauen Button links unten in GitHub Desktop einen Commit auf dem aktuellen Branch anlegen. Wenn Sie in dem Eingabefeld links neben Ihrem Profilbild nichts eintragen wird der graue Vorgabetext als Commit Message verwendet, was für den Anfang gut genug ist.</description>
+    </item>
+    
+    <item>
+      <title>git push</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/6_git-push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/6_git-push/</guid>
+      <description>Nun klicken Sie auf den &amp;ldquo;Publish branch&amp;rdquo; Button, um die lokal ausgeführten Aktionen zu ihrem Fork auf GitHub zu publizieren.
+An dieser Stelle erscheint dann ein Button &amp;ldquo;Create Pull Request&amp;rdquo;. Der Übung halber erstellen wir den Pull Request jedoch für&amp;rsquo;s erste in der Weboberfläche.</description>
+    </item>
+    
+    <item>
+      <title>Vorschau der generierten Webseite</title>
+      <link>https://git-workshop.epages.works/collaboration/pull-request/4_preview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/pull-request/4_preview/</guid>
+      <description>Um sich eine Vorschau der Webseite mit Ihrem neuen Artikel anzusehen, gehen Sie zurück zur Eingabeaufforderung, welche sich immernoch in dem Projektverzeichnis befinden sollte. Geben Sie nun dort das folgende Kommando ein:
+hugo server -D Daraufhin wird &amp;ldquo;hugo&amp;rdquo; den HTML Code generieren und die Webseite mit einem lokalen Webserver starten. Um sich diese anzeigen zu lassen, wechseln Sie zu einem Webbrowser und geben Sie dort in die Adresszeile folgende Adresse ein:</description>
+    </item>
+    
+  </channel>
+</rss>

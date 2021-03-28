@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herunterladen von GitHub Projekt on Git Workshop</title>
+    <link>https://git-workshop.epages.works/collaboration/git-clone/</link>
+    <description>Recent content in Herunterladen von GitHub Projekt on Git Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://git-workshop.epages.works/collaboration/git-clone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/1_introduction/</guid>
+      <description>Das Ziel von diesem Tutorial ist es ein auf GitHub gehostetes Projekt auf den lokalen Rechner herunterzuladen.
+Voraussetzungen  GitHub Desktop wurde erfolgreich installiert. Bevor Sie mit dem Tutorial starten, sollte ein Texteditor wie VS Code, Atom oder Notepad++ auf Ihrem Rechner installiert sein.  </description>
+    </item>
+    
+    <item>
+      <title>Erstellung von Fork</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/2_fork-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/2_fork-project/</guid>
+      <description>Als Übungsprojekt werden wir im Folgenden das &amp;ldquo;Technologie Nachrichten&amp;rdquo; Projekt benutzen:
+https://github.com/experimental-software/technologie-nachrichten
+TODO: Das Repository muss noch angelegt werden.
+Besuchen Sie die Projektseite und klicken Sie dann auf den &amp;ldquo;Fork&amp;rdquo; Button rechts oben auf der Webseite.
+Wählen Sie in dem sich daraufhin öffnenden Dialog Ihren privaten GitHub Account als Ziel für den Fork aus.
+Nachdem die Fork Aktion fertig ist, klicken Sie auf den grünen &amp;ldquo;Code&amp;rdquo; Button und kopieren Sie sich dann die angezeigte HTTPS Clone URL.</description>
+    </item>
+    
+    <item>
+      <title>git clone</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/3_git-clone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/3_git-clone/</guid>
+      <description>Öffnen Sie nun GitHub Desktop und wählen Sie den Menüpunkt &amp;ldquo;File &amp;gt; Clone Repository&amp;rdquo; aus.
+Führen Sie in dem sich daraufhin öffnenden Dialog folgende Schritte durch:
+ Wechseln Sie zu dem Tab &amp;ldquo;URL&amp;rdquo; Tragen Sie in dem Eingabefeld für die Repository URL die im vorherigen Schritt kopierte HTTPS Clone URL ein Prüfen Sie, dass das Projekt an eine geeignete Stelle auf Ihrem Rechner heruntergeladen wird. Ggf. Können Sie über den Button rechts von dem Eingabefeld ein anderes Zielverzeichnis auswählen.</description>
+    </item>
+    
+    <item>
+      <title>Öffnen von lokalen Dateien</title>
+      <link>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</guid>
+      <description>Wenn Ihr Texteditor richtig von GitHub Desktop erkannt wurde, können Sie nach der Verarbeitung von dem &amp;ldquo;git clone&amp;rdquo; Befehl einen Button mit der Beschriftung &amp;ldquo;Open in &amp;rdquo;, in dem folgenden Beispiel &amp;ldquo;Open in Atom&amp;rdquo;:
+Tip: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+Daraufhin sollte sich der von Ihnen bevorzugte Texteditor in dem Verzeichnis von dem Übungsprojekt öffnen.</description>
+    </item>
+    
+  </channel>
+</rss>

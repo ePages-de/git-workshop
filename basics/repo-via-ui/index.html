@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    
+    <link href="/tutorial/layout.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+</head>
+
+<body>
+    
+  <div id="title" style="background: white; opacity: 1;">
+    <a href="/basics/"><i class="fas fa-times"></i></a>
+    <span>Repository anlegen über GitHub Webseite</span>
+  </div>
+
+  <div class="row" style="margin: 0px;">
+    <div id="tocPlaceholder" class="col col-2">
+      
+    </div>
+    <div class="col">
+      <div id="content">
+        
+        
+            
+            <div class="section" data-section-id="1">
+              <div class="anchorContainer">
+                <a id="section-1">&nbsp;</a>
+              </div>
+              <div data-section-id="1">
+                <div class="card">
+                  <h1 class="card-title">Einleitung</h1>
+                  <div class="card-body">
+                      <p>Dieses Tutorial beschreibt, wie man neue Repositories anlegen kann, mit Hilfe der GitHub Webseite.
+Weiterhin beinhaltet es wie man es dann auf den lokalen Rechner bekommt, eine einfache Textdatei anlegt und dann auf der GitHub Webseite sichtbar macht.</p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="2">
+              <div class="anchorContainer">
+                <a id="section-2">&nbsp;</a>
+              </div>
+              <div data-section-id="2">
+                <div class="card">
+                  <h1 class="card-title">Formular zum Anlegen</h1>
+                  <div class="card-body">
+                      <p>Nach dem Einloggen auf der GitHub Webseite sieht man rechts oben ein Plus-Symbol.
+Wenn man dort drauf klickt öffnet sich ein Kontext-Menü, worin man dann &ldquo;New repository&rdquo; auswählen kann.</p>
+<p>Daraufhin öffnet sich eine Seite mit einem Formlar zu den Details für das neue Repository.</p>
+<p>Wichtig hierbei ist neben einem Name für das Repository, ob es öffentlich oder privat sein soll.
+Öffentlich heißt, jede/r der Ihr Profil auf der GitHub Webseite besucht kann es sehen.
+Privat heißt, nur Sie können das Repository sehen, und jene welchen Sie ggf. später die Berechtigung dafür geben.</p>
+<p><img src="img/create-repository-form.png" alt="Formular zum Anlegen von Repository"></p>
+<ol>
+<li>Tragen Sie hier einen Namen für das Repository ein, z.B. &ldquo;webseite-auf-github&rdquo;, in einem nachfolgenden Tutorial eine kleine Webseite hierin publiziert werden soll.</li>
+<li>Für diese Übung wählen Sie bitte &ldquo;Public&rdquo; aus.</li>
+<li>In den Optionen für die Sektion &ldquo;Initialize this repository with&rdquo;, wählen Sie bitte &ldquo;Add a README file&rdquo; aus.</li>
+</ol>
+<p>Danach können Sie das Anlegen des Repository mit einem Klick auf den &ldquo;Create repository&rdquo; button bestätigen.</p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="3">
+              <div class="anchorContainer">
+                <a id="section-3">&nbsp;</a>
+              </div>
+              <div data-section-id="3">
+                <div class="card">
+                  <h1 class="card-title">Kopieren von Clone URL</h1>
+                  <div class="card-body">
+                      <p>Das Herunterladen von Git Repositories auf den lokalen Rechner wird als &ldquo;clone&rdquo; bezeichnet.
+Um dies im nächsten Schritt durchzuführen, kopieren Sie die &ldquo;Clone URL&rdquo; in den Zwischenspeicher, indem Sie auf der Repository-Hauptseite auf den grünen &ldquo;Code&rdquo; Button klicken (1), und danach auf das Kopier-Icon (2).</p>
+<p><img src="img/clone-url.png" alt="Clone URL kopieren"></p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="4">
+              <div class="anchorContainer">
+                <a id="section-4">&nbsp;</a>
+              </div>
+              <div data-section-id="4">
+                <div class="card">
+                  <h1 class="card-title">Clonen in GitHub Desktop</h1>
+                  <div class="card-body">
+                      <p>Öffnen Sie nun GitHub Desktop.
+Wählen Sie dann mit Hauptmenu &ldquo;File &gt; Clone Repository&rdquo; aus.
+In dem sich öffnenden Dialog, gehen Sie zu dem Tab &ldquo;URL&rdquo;.
+Fügen Sie dann die URL in der Zwischenablage in das Eingabefeld ein.
+Prüfen Sie, ob in &ldquo;Local Path&rdquo; der richtige Pfad eingetragen ist, in das Sie das Repository kopieren möchten.
+Klicken Sie schließlich auf den &ldquo;Clone&rdquo; button.</p>
+<p><img src="img/clone-desktop.gif" alt="Klonen von Repository"></p>
+<p>Es öffnet sich daraufhin in GitHub Desktop das geklonte Repository.</p>
+<p><img src="img/github-desktop-repo-start.png" alt="Startseite für Repository"></p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="5">
+              <div class="anchorContainer">
+                <a id="section-5">&nbsp;</a>
+              </div>
+              <div data-section-id="5">
+                <div class="card">
+                  <h1 class="card-title">HTML Datei anlegen</h1>
+                  <div class="card-body">
+                      <h2 id="texteditor-öffnen">Texteditor öffnen</h2>
+<p>Öffen Sie nun den Dateisystem-Order mit dem geklonten Repository mit Ihrem Texteditor.
+GitHub Desktop hilft dabei, indem es auf der Startseite von dem Repository einen Button anbieten, um mit dem eingestellten Texteditor das Projekt zu öffnen.</p>
+<p>Tip: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &ldquo;Preferences&rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &ldquo;Integrations&rdquo; Tab wechseln. Dort können Sie dann einen anderen der auf Ihrem System installierten Texteditoren auswählen.</p>
+<p>Alternativ können Sie auch den Texteditor über das Betriebssystem starten und dann dort den Ordner öffnen.</p>
+<h2 id="datei-anlegen">Datei anlegen</h2>
+<p>Legen Sie nun eine Datei mit dem Namen &ldquo;index.html&rdquo; in dem Wurzelverzeichnis des Repository an.</p>
+<h2 id="minimale-webseite">Minimale Webseite</h2>
+<p>Füllen Sie den Inhalt dieser Datei mit einer kleinen Webseite, z.B.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">html</span>&gt;
+&lt;<span style="color:#f92672">body</span>&gt;
+  &lt;<span style="color:#f92672">h1</span>&gt;Hello, World!&lt;/<span style="color:#f92672">h1</span>&gt;
+&lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;
+</code></pre></div>
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="6">
+              <div class="anchorContainer">
+                <a id="section-6">&nbsp;</a>
+              </div>
+              <div data-section-id="6">
+                <div class="card">
+                  <h1 class="card-title">git commit</h1>
+                  <div class="card-body">
+                      <p>Gehen Sie nun zurück zu GitHub Desktop.
+Es wird Ihnen hier angezeigt welche Dateien sich geändert haben.
+Sie können nun auswählen, welche der Änderungen in den Commit beinhaltet sein sollen.
+In diesem Fall wollen wir alle Änderungen in den Commit packen, was die Voreinstellung ist.</p>
+<p>Drücken Sie daher einfach auf den &ldquo;Commit to main&rdquo; Button, um den Commit zu erstellen.</p>
+<p><img src="img/desktop-commit.png" alt="Erstellung von Commit"></p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+            
+            <div class="section" data-section-id="7">
+              <div class="anchorContainer">
+                <a id="section-7">&nbsp;</a>
+              </div>
+              <div data-section-id="7">
+                <div class="card">
+                  <h1 class="card-title">git push</h1>
+                  <div class="card-body">
+                      <p>Nach der Erstellung des Commit zeigt Ihnen GitHub Desktop an, dass Ihr lokaler Branch einen Commit mehr hat, als der Branch den Sie remote auf GitHub haben.</p>
+<p><img src="img/compare-remote.png" alt="Vergleich mit remote repository"></p>
+<p>Um diesen Commit dem remote Repository bekannt zu machen, müssen Sie den &ldquo;git push&rdquo; Befehl ausführen.
+GitHub Desktop macht diese einfach, indem Sie nur den &ldquo;Push origin&rdquo; Button dafür klicken brauchen.</p>
+<p><img src="img/git-push.png" alt="Git push"></p>
+<p>Wenn Sie sich nun Ihr Repository auf GitHub anschauen, können Sie nun die von Ihnen neu erstellte Datei finden.</p>
+
+                  </div>
+                </div>              
+              </div>              
+            </div>
+        
+        <div class="sectionStepper">
+          <div class="d-flex justify-content-between">
+            <div>
+              <button type="button" class="goToPreviousSection btn btn-secondary" onclick="goToPreviousSection()">Zurück</button>
+            </div>
+            <div>
+              <button type="button" class="goToNextSection btn btn-primary float-right" onclick="goToNextSection()">Weiter</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  
+  <div id="toc">
+    
+    
+        
+        <div class="sectionLink card" data-section-id="1">
+          <a href="#section-1" onclick="setActiveSection( 1 )">
+            <div class="card-body">
+              <span class="dot">1</span>
+              Einleitung
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="2">
+          <a href="#section-2" onclick="setActiveSection( 2 )">
+            <div class="card-body">
+              <span class="dot">2</span>
+              Formular zum Anlegen
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="3">
+          <a href="#section-3" onclick="setActiveSection( 3 )">
+            <div class="card-body">
+              <span class="dot">3</span>
+              Kopieren von Clone URL
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="4">
+          <a href="#section-4" onclick="setActiveSection( 4 )">
+            <div class="card-body">
+              <span class="dot">4</span>
+              Clonen in GitHub Desktop
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="5">
+          <a href="#section-5" onclick="setActiveSection( 5 )">
+            <div class="card-body">
+              <span class="dot">5</span>
+              HTML Datei anlegen
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="6">
+          <a href="#section-6" onclick="setActiveSection( 6 )">
+            <div class="card-body">
+              <span class="dot">6</span>
+              git commit
+            </div>
+          </a>
+        </div>
+    
+        
+        <div class="sectionLink card" data-section-id="7">
+          <a href="#section-7" onclick="setActiveSection( 7 )">
+            <div class="card-body">
+              <span class="dot">7</span>
+              git push
+            </div>
+          </a>
+        </div>
+    
+  </div>
+  
+  <div id="contact">
+    
+      <a href="https://github.com/ePages-de/git-workshop/issues/new" target="_blank">Feedback</a>
+    
+  </div>
+
+  <script src="/tutorial/toc.js" type="application/javascript"></script>
+
+  
+</body>
+
+</html>
