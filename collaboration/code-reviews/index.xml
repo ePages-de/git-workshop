@@ -1,66 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Durchführung von Code Reviews on Git Workshop</title>
-    <link>https://git-workshop.epages.works/collaboration/code-reviews/</link>
-    <description>Recent content in Durchführung von Code Reviews on Git Workshop</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    
-	<atom:link href="https://git-workshop.epages.works/collaboration/code-reviews/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Anmerkungen hinzufügen</title>
-      <link>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</guid>
-      <description>Beim Überfahren der geänderten Zeilen mit dem Mauszeiger können sie einen blauen Button am Beginn der Zeile sehen.
-Wenn Sie diesen drücken öffnet sich eine Eingabemaske, in der Sie dem Autor des Pull Requests Feedback zu dieser Zeile geben können.</description>
-    </item>
-    
-    <item>
-      <title>Einleitung</title>
-      <link>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</guid>
-      <description>Code Reviews sind wichtig für professionelle Projekte um (1) das Wissen zu verteilen, (2) Fehler zu finden und (3) für einen hohe interne Qualität der Software zu sorgen.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Durchführung von Code Reviews on Git Workshop</title><link>https://git-workshop.epages.works/collaboration/code-reviews/</link><description>Recent content in Durchführung von Code Reviews on Git Workshop</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://git-workshop.epages.works/collaboration/code-reviews/index.xml" rel="self" type="application/rss+xml"/><item><title>Anmerkungen hinzufügen</title><link>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/collaboration/code-reviews/3_pr-comments/</guid><description>Beim Überfahren der geänderten Zeilen mit dem Mauszeiger können sie einen blauen Button am Beginn der Zeile sehen.
+Wenn Sie diesen drücken öffnet sich eine Eingabemaske, in der Sie dem Autor des Pull Requests Feedback zu dieser Zeile geben können.</description></item><item><title>Einleitung</title><link>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/collaboration/code-reviews/1_introduction/</guid><description>Code Reviews sind wichtig für professionelle Projekte um (1) das Wissen zu verteilen, (2) Fehler zu finden und (3) für einen hohe interne Qualität der Software zu sorgen.
 Dieses Tutorial beschreibt, wie man Code Reviews durchführen kann.
-Voraussetzungen  Um Code Reviews durchführen zu können, brauchen Sie von dem Besitzer des Repositories die Schreibberechtigung dazu. Jemand hat in dem Repository einen Pull Request gestellt.  Referenzen  How to keep up your code quality &amp;ndash; epages devs blog Inviting collaborators to a personal repository  </description>
-    </item>
-    
-    <item>
-      <title>Pull Request mergen</title>
-      <link>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</guid>
-      <description>Wechseln Sie danach in das &amp;ldquo;Conversation&amp;rdquo; Tab in den Pull Request Details und scrollen Sie ganz nach unten. Dort können Sie dann über den &amp;ldquo;Merge pull request&amp;rdquo; Button den Pull Request in den Hauptzweig des Repositories mergen.</description>
-    </item>
-    
-    <item>
-      <title>Pull Request öffnen</title>
-      <link>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</guid>
-      <description>Gehen Sie auf das Hauptprojekt und öffnen Sie dort das &amp;ldquo;Pull Requests&amp;rdquo; Tab.
+Voraussetzungen Um Code Reviews durchführen zu können, brauchen Sie von dem Besitzer des Repositories die Schreibberechtigung dazu. Jemand hat in dem Repository einen Pull Request gestellt. Referenzen How to keep up your code quality &amp;ndash; epages devs blog Inviting collaborators to a personal repository</description></item><item><title>Pull Request mergen</title><link>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/collaboration/code-reviews/5_merge/</guid><description>Wechseln Sie danach in das &amp;ldquo;Conversation&amp;rdquo; Tab in den Pull Request Details und scrollen Sie ganz nach unten. Dort können Sie dann über den &amp;ldquo;Merge pull request&amp;rdquo; Button den Pull Request in den Hauptzweig des Repositories mergen.</description></item><item><title>Pull Request öffnen</title><link>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/collaboration/code-reviews/2_create-pr/</guid><description>Gehen Sie auf das Hauptprojekt und öffnen Sie dort das &amp;ldquo;Pull Requests&amp;rdquo; Tab.
 https://github.com/ePages-de/technologie-nachrichten/pulls
-In den Details zu dem Pull Request, wechsel Sie zu dem &amp;ldquo;Files changed&amp;rdquo; Tab.</description>
-    </item>
-    
-    <item>
-      <title>Review abschließen</title>
-      <link>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</guid>
-      <description>Wenn Sie mit Ihrem Review fertig sind, drücken Sie den Button rechts oben mit der Aufschrift &amp;ldquo;Finish your review&amp;rdquo;.
+In den Details zu dem Pull Request, wechsel Sie zu dem &amp;ldquo;Files changed&amp;rdquo; Tab.</description></item><item><title>Review abschließen</title><link>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/collaboration/code-reviews/4_review-submit/</guid><description>Wenn Sie mit Ihrem Review fertig sind, drücken Sie den Button rechts oben mit der Aufschrift &amp;ldquo;Finish your review&amp;rdquo;.
 Bevor Sie den sich daraufhin öffnenden Dialog bestätigen, müssen Sie entscheiden ob Sie den Pull Request nur Kommentieren möchten, ob Sie den Pull Request genehmigen oder Änderungen anfordern wollen.
-Der Autor des Pull Requests bekommt daraufhin von GitHub eine Email als Notifikation für Ihr Feedback.</description>
-    </item>
-    
-  </channel>
-</rss>
+Der Autor des Pull Requests bekommt daraufhin von GitHub eine Email als Notifikation für Ihr Feedback.</description></item></channel></rss>

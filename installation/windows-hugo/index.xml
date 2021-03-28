@@ -1,65 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Installieren von Hugo mit Windows on Git Workshop</title>
-    <link>https://git-workshop.epages.works/installation/windows-hugo/</link>
-    <description>Recent content in Installieren von Hugo mit Windows on Git Workshop</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    
-	<atom:link href="https://git-workshop.epages.works/installation/windows-hugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Einleitung</title>
-      <link>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</guid>
-      <description>Hugo ist ein Tool, womit statische HTML Seiten generiert werden können. Es wurde ausgewählt, da die Installation verhältnismäßig einfach ist und es ein sehr aktives Open Source Projekt ist. Somit kann in dem Git Workshop gemeinsam an einer Webseite gearbeitet werden, ohne dass Vorkenntnisse von bestimmten Programmiersprachen vorausgesetzt sind.
-Voraussetzungen Bevor Sie mit dem Tutorial starten, sollte ein Texteditor wie VS Code, Atom oder Notepad++ auf Ihrem Rechner installiert sein.</description>
-    </item>
-    
-    <item>
-      <title>Entpacken von ZIP Datei</title>
-      <link>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</guid>
-      <description>Gehen Sie nun zu Ihrem Download-Ordner und klicken Sie mit der rechten Maustaste auf die heruntergeladene ZIP-Datei. Wählen Sie aus dem Kontextmenü &amp;ldquo;Alle extrahieren&amp;rdquo; aus. Nun öffnet sich ein Dialog welcher abfragt wohin die Dateien extrahiert werden sollen. Wählen Sie hier einen beliebigen Ordner aus, z.B. direkt in das Downloadverzeichnis:</description>
-    </item>
-    
-    <item>
-      <title>Herunterladen von Release Packet</title>
-      <link>https://git-workshop.epages.works/installation/windows-hugo/2_download/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/installation/windows-hugo/2_download/</guid>
-      <description>Die Releases von Hugo sind auf dieser Webseite zu finden:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Installieren von Hugo mit Windows on Git Workshop</title><link>https://git-workshop.epages.works/installation/windows-hugo/</link><description>Recent content in Installieren von Hugo mit Windows on Git Workshop</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://git-workshop.epages.works/installation/windows-hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Einleitung</title><link>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/installation/windows-hugo/1_introduction/</guid><description>Hugo ist ein Tool, womit statische HTML Seiten generiert werden können. Es wurde ausgewählt, da die Installation verhältnismäßig einfach ist und es ein sehr aktives Open Source Projekt ist. Somit kann in dem Git Workshop gemeinsam an einer Webseite gearbeitet werden, ohne dass Vorkenntnisse von bestimmten Programmiersprachen vorausgesetzt sind.
+Voraussetzungen Bevor Sie mit dem Tutorial starten, sollte ein Texteditor wie VS Code, Atom oder Notepad++ auf Ihrem Rechner installiert sein.</description></item><item><title>Entpacken von ZIP Datei</title><link>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/installation/windows-hugo/3_unzip/</guid><description>Gehen Sie nun zu Ihrem Download-Ordner und klicken Sie mit der rechten Maustaste auf die heruntergeladene ZIP-Datei. Wählen Sie aus dem Kontextmenü &amp;ldquo;Alle extrahieren&amp;rdquo; aus. Nun öffnet sich ein Dialog welcher abfragt wohin die Dateien extrahiert werden sollen. Wählen Sie hier einen beliebigen Ordner aus, z.B. direkt in das Downloadverzeichnis:</description></item><item><title>Herunterladen von Release Packet</title><link>https://git-workshop.epages.works/installation/windows-hugo/2_download/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/installation/windows-hugo/2_download/</guid><description>Die Releases von Hugo sind auf dieser Webseite zu finden:
 https://github.com/gohugoio/hugo/releases
-Scrollen Sie in dem neusten Release bis zu dem Link für die ZIP-Datei für Windows. Nach einem einfachen Klick auf diesen Link startet der Download automatisch.</description>
-    </item>
-    
-    <item>
-      <title>Konfiguration von Umgebungsvariablen</title>
-      <link>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</guid>
-      <description>Gehen Sie nun zu der Sucheingabe der Windows Hauptnavigation und geben Sie dort das Wort &amp;ldquo;Umgebungsvariablen&amp;rdquo; ein. Nach dem Öffnen des daraufhin gefundenen Programm öffnet sich der folgende Dialog, in welchem Sie als nächstes den Button &amp;ldquo;Umgebungsvariablen&amp;rdquo; drücken:
+Scrollen Sie in dem neusten Release bis zu dem Link für die ZIP-Datei für Windows. Nach einem einfachen Klick auf diesen Link startet der Download automatisch.</description></item><item><title>Konfiguration von Umgebungsvariablen</title><link>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/installation/windows-hugo/4_env-variables/</guid><description>Gehen Sie nun zu der Sucheingabe der Windows Hauptnavigation und geben Sie dort das Wort &amp;ldquo;Umgebungsvariablen&amp;rdquo; ein. Nach dem Öffnen des daraufhin gefundenen Programm öffnet sich der folgende Dialog, in welchem Sie als nächstes den Button &amp;ldquo;Umgebungsvariablen&amp;rdquo; drücken:
 Hier wollen wir die Variable &amp;ldquo;Path&amp;rdquo; bearbeiten:
-Hier muss nun der Ordner eingetragen werden, in den Hugo extrahiert wurde.</description>
-    </item>
-    
-    <item>
-      <title>Testen der Installation</title>
-      <link>https://git-workshop.epages.works/installation/windows-hugo/5_test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://git-workshop.epages.works/installation/windows-hugo/5_test/</guid>
-      <description>Als nächstes gehen wir zurück zu der Sucheingabe des Windows Hauptmenü, geben dort &amp;ldquo;Eingabeaufforderung&amp;rdquo; ein und öffnen das Programm was daraufhin gefunden wird.
-Wenn daraufhin das Kommando &amp;ldquo;hugo version&amp;rdquo; eingegeben und bestätigt wird, sollte Hugo berichten mit welcher Version es installiert wurde.</description>
-    </item>
-    
-  </channel>
-</rss>
+Hier muss nun der Ordner eingetragen werden, in den Hugo extrahiert wurde.</description></item><item><title>Testen der Installation</title><link>https://git-workshop.epages.works/installation/windows-hugo/5_test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://git-workshop.epages.works/installation/windows-hugo/5_test/</guid><description>Als nächstes gehen wir zurück zu der Sucheingabe des Windows Hauptmenü, geben dort &amp;ldquo;Eingabeaufforderung&amp;rdquo; ein und öffnen das Programm was daraufhin gefunden wird.
+Wenn daraufhin das Kommando &amp;ldquo;hugo version&amp;rdquo; eingegeben und bestätigt wird, sollte Hugo berichten mit welcher Version es installiert wurde.</description></item></channel></rss>
