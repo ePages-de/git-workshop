@@ -2,5 +2,5 @@
 title: Einstieg GitHub
 type: presentation
 theme: moon
-weight: 1
+weight: 2
 ---
