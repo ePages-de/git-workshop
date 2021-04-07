@@ -28,6 +28,15 @@ Auf dieser Seite finden Sie eine Sammlung von Links zu Git und verwandten Themen
 - https://de.wikipedia.org/wiki/Versionsverwaltung
 - https://www.dev-insider.de/was-ist-versionskontrolle-a-701050/
 
+## Fortgeschrittene Themen
+
+### Git Implementierungsdetails
+
+- https://www.quora.com/Are-Git-repos-a-linked-list-of-commit-objects
+- https://www.quora.com/GIT-Can-someone-explain-git-and-git-command-in-terms-of-a-linked-list-or-graph-theory
+- https://medium.com/swlh/data-structures-used-in-git-implementation-a2c95bf4135e
+- 
+
 ## Sonstiges
 
 ### Alternativen zu Git
