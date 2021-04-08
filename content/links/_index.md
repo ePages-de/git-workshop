@@ -39,6 +39,14 @@ Auf dieser Seite finden Sie eine Sammlung von Links zu Git und verwandten Themen
 
 ## Sonstiges
 
+### Historie
+
+- https://www.atlassian.com/git/articles/10-years-of-git
+- https://www.linuxjournal.com/content/git-origin-story
+- https://www.linux.com/news/10-years-git-interview-git-creator-linus-torvalds/
+- https://insights.stackoverflow.com/survey/2015#tech-sourcecontrol
+- https://insights.stackoverflow.com/survey/2018#work-_-version-control
+
 ### Alternativen zu Git
 
 - https://de.wikipedia.org/wiki/BitKeeper
