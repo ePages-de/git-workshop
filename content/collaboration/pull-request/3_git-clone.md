@@ -2,6 +2,15 @@
 title: git clone
 ---
 
+Nun können Sie sich eine Kopie von Ihrem Fork herunterladen.
+Dies wird im Kontext von Git als "clone" bezeichnet.
+
+```
+git clone https://github.com/jmewes/git-workshop.git
+```
+
+## GitHub Desktop
+
 Öffnen Sie nun GitHub Desktop und wählen Sie den Menüpunkt "File > Clone Repository" aus.
 
 ![Menüpunkt "Clone Repository"](./img/desktop_menu_clone.png)

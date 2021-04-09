@@ -270,7 +270,7 @@
       <guid>https://git-workshop.epages.works/installation/windows-git/2_create-github-account/</guid>
       <description>Für die Übungen werden wir den am weitesten verbreiteten Online-Service für das Hosting von Git repositories nutzen. Bitte legen Sie sich hier einen kostenlosen Account dafür an:
 https://github.com/join
-Tip: Alternativen von GitHub sind z.B. GitLab und BitBucket.</description>
+Tipp: Alternativen von GitHub sind z.B. GitLab und BitBucket.</description>
     </item>
     
     <item>
@@ -416,7 +416,7 @@ Nach der Bestätigung dieses Dialogs können Sie in der Kopfzeilen von GitHub De
 Windows:
 cd d:\src\misc\technologie-nachrichten MacOS / Linux:
 cd ~/src/misc/technologie-nachrichten Mit dem nächsten Befehl können wir mit Hilfe von Hugo automatisch eine neue Textdatei in dem Projekt anlegen. Starten Sie die Eingabe mit &amp;ldquo;hugo new&amp;rdquo;, gefolgt von dem Pfadelement &amp;ldquo;posts/&amp;quot;, dann Schlagworten für Ihre Nachrichtenmeldung und zum Schluss die Dateiendung &amp;ldquo;.md&amp;rdquo;.
-hugo new posts/workplace-analytics.md Tip: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
+hugo new posts/workplace-analytics.md Tipp: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
     </item>
     
     <item>
@@ -534,7 +534,7 @@ Scrollen Sie in dem neusten Release bis zu dem Link für die ZIP-Datei für Wind
       
       <guid>https://git-workshop.epages.works/basics/repo-via-ui/5_datei-anlegen/</guid>
       <description>Texteditor öffnen Öffen Sie nun den Dateisystem-Order mit dem geklonten Repository mit Ihrem Texteditor. GitHub Desktop hilft dabei, indem es auf der Startseite von dem Repository einen Button anbieten, um mit dem eingestellten Texteditor das Projekt zu öffnen.
-Tip: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &amp;ldquo;Preferences&amp;rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &amp;ldquo;Integrations&amp;rdquo; Tab wechseln.</description>
+Tipp: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &amp;ldquo;Preferences&amp;rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &amp;ldquo;Integrations&amp;rdquo; Tab wechseln.</description>
     </item>
     
     <item>
@@ -651,7 +651,7 @@ hugo server -D Daraufhin wird &amp;ldquo;hugo&amp;rdquo; den HTML Code generiere
       
       <guid>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</guid>
       <description>Wenn Ihr Texteditor richtig von GitHub Desktop erkannt wurde, können Sie nach der Verarbeitung von dem &amp;ldquo;git clone&amp;rdquo; Befehl einen Button mit der Beschriftung &amp;ldquo;Open in &amp;rdquo;, in dem folgenden Beispiel &amp;ldquo;Open in Atom&amp;rdquo;:
-Tip: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+Tipp: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
 Daraufhin sollte sich der von Ihnen bevorzugte Texteditor in dem Verzeichnis von dem Übungsprojekt öffnen.</description>
     </item>
     

@@ -1,6 +1,14 @@
 ---
-title: Erstellung von Branch
+title: Branch erstellen
 ---
+
+Jedes mal wenn man eine Änderung an einem Projekt macht, an dem mehrere Personen arbeiten, empfiehlt es sich zunächst einen neuen Branch anzulegen.
+
+```
+git checkout -b docs/neuer-link
+```
+
+## GitHub Desktop
 
 Der erste Schritt vor dem Hinzufügen von Änderungen an kollaborativ bearbeiteten Projekten sollte es immer sein, einen Branch anzulegen.
 

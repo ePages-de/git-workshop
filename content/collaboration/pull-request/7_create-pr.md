@@ -1,5 +1,5 @@
 ---
-title: Erstellung von Pull Request
+title: Pull Request erstellen
 ---
 
 Wenn Sie Ihren Fork in der Weboberfläche öffnen, wird GitHub Sie über die Änderungen informieren und Ihnen auch dort anbieten einen Pull Request anzulegen.

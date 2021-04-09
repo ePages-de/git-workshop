@@ -42,7 +42,7 @@ Nach der Bestätigung dieses Dialogs können Sie in der Kopfzeilen von GitHub De
 Windows:
 cd d:\src\misc\technologie-nachrichten MacOS / Linux:
 cd ~/src/misc/technologie-nachrichten Mit dem nächsten Befehl können wir mit Hilfe von Hugo automatisch eine neue Textdatei in dem Projekt anlegen. Starten Sie die Eingabe mit &amp;ldquo;hugo new&amp;rdquo;, gefolgt von dem Pfadelement &amp;ldquo;posts/&amp;quot;, dann Schlagworten für Ihre Nachrichtenmeldung und zum Schluss die Dateiendung &amp;ldquo;.md&amp;rdquo;.
-hugo new posts/workplace-analytics.md Tip: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
+hugo new posts/workplace-analytics.md Tipp: Folgende Webseiten könnten als Inspiration für Ihre Technologie Nachrichten interessant sein:</description>
     </item>
     
     <item>

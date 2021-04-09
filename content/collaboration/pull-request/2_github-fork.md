@@ -1,12 +1,9 @@
 ---
-title: Erstellung von Fork
+title: Fork anlegen
 ---
 
-Als Übungsprojekt werden wir im Folgenden das "Technologie Nachrichten" Projekt benutzen:
-
-[https://github.com/experimental-software/technologie-nachrichten](https://github.com/experimental-software/technologie-nachrichten)
-
-TODO: Das Repository muss noch angelegt werden.
+Der erste Schritt, um einen Pull Request ist es, sich einen [Fork](https://en.wikipedia.org/wiki/Fork_(software_development)) zu erstellen.
+Als Fork wird die Kopie des Projektes in Ihrem persönlichen GitHub Account bezeichnet.
 
 Besuchen Sie die Projektseite und klicken Sie dann auf den "Fork" Button rechts oben auf der Webseite.
 
@@ -19,4 +16,3 @@ Wählen Sie in dem sich daraufhin öffnenden Dialog Ihren privaten GitHub Accoun
 Nachdem die Fork Aktion fertig ist, klicken Sie auf den grünen "Code" Button und kopieren Sie sich dann die angezeigte HTTPS Clone URL.
 
 ![Clone Link](./img/github_clone_link.png)
-

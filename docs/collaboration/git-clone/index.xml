@@ -52,7 +52,7 @@ Führen Sie in dem sich daraufhin öffnenden Dialog folgende Schritte durch:
       
       <guid>https://git-workshop.epages.works/collaboration/git-clone/4_open-files/</guid>
       <description>Wenn Ihr Texteditor richtig von GitHub Desktop erkannt wurde, können Sie nach der Verarbeitung von dem &amp;ldquo;git clone&amp;rdquo; Befehl einen Button mit der Beschriftung &amp;ldquo;Open in &amp;rdquo;, in dem folgenden Beispiel &amp;ldquo;Open in Atom&amp;rdquo;:
-Tip: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+Tipp: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
 Daraufhin sollte sich der von Ihnen bevorzugte Texteditor in dem Verzeichnis von dem Übungsprojekt öffnen.</description>
     </item>
     

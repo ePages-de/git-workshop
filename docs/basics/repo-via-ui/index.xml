@@ -68,7 +68,7 @@ Wenn Sie sich nun Ihr Repository auf GitHub anschauen, können Sie nun die von I
       
       <guid>https://git-workshop.epages.works/basics/repo-via-ui/5_datei-anlegen/</guid>
       <description>Texteditor öffnen Öffen Sie nun den Dateisystem-Order mit dem geklonten Repository mit Ihrem Texteditor. GitHub Desktop hilft dabei, indem es auf der Startseite von dem Repository einen Button anbieten, um mit dem eingestellten Texteditor das Projekt zu öffnen.
-Tip: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &amp;ldquo;Preferences&amp;rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &amp;ldquo;Integrations&amp;rdquo; Tab wechseln.</description>
+Tipp: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den &amp;ldquo;Preferences&amp;rdquo; Link klicken und dann in dem sich öffnenden Dialog zu dem &amp;ldquo;Integrations&amp;rdquo; Tab wechseln.</description>
     </item>
     
     <item>
