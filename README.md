@@ -61,6 +61,8 @@ hugo --destination docs/
 - The presentations are based on [RevealJS](https://revealjs.com/) which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
 - At various places of the website [Font Awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free) icons are used.
 
-## License
+## Copyright
 
-TBD
+(c) ePages 2021 and [CONTRIBUTORS](CONTRIBUTORS).
+
+Except as otherwise noted, the content of this repository is licensed under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0).
