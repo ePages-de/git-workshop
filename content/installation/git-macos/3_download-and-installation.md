@@ -20,7 +20,12 @@ https://desktop.github.com
 
 ![GitHub Desktop](img/github-desktop-macos.png)
 
-## Entpacken
+## Installation
 
 Gehen Sie im Finder zu Ihrem "Downloads" Verzeichnis.
 Machen Sie dann einen Doppelklick auf die heruntergeladene "GitHubDesktop.zip" Datei.
+Damit wird die Datei "GitHub Desktop.app" entpackt.
+Verschiebenen Sie diese in den "Programme" Ordner.
+Danach kann GitHub Desktop via [Spotlight](https://de.wikipedia.org/wiki/Spotlight_(Software)) oder Doppelklick auf "GitHub Desktop.app" in dem "Programme" Verzeichnis gestartet werden.
+
+![Entpacken von GitHub Desktop](img/unzip-install.gif)
