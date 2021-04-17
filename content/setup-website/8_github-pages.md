@@ -1,5 +1,5 @@
 ---
-title: GitHub Desktop einrichten
+title: GitHub Pages einrichten
 ---
 
 Gehen Sie nun wieder zu der GitHub Webseite.
@@ -17,7 +17,7 @@ Dies kann entwerden im Hauptverzeichnis des Repository sein (engl. root) oder in
 ![Publizieren von Webseite](img/gh-pages-publish.gif)
 
 Da GitHub Pages Cache-Mechanismen benutzt, ist Ihre Webseite nicht sofort verfügbar.
-Es kann 2-10 Minuten dauern, bis die Webseite unter der angezeigten URL verfügbar ist. 
+Es kann 1-10 Minuten dauern, bis die Webseite unter der angezeigten URL verfügbar ist. 
 
 ## Jekyll Theme
 
@@ -30,4 +30,4 @@ Nach Durchführung dieser Konfiguration sollte Ihre Webseite sofort erreichbar s
 
 ## Aktualisieren
 
-Wenn Sie die "index.html" Datei in dem Git Repository aktualisieren, dann aktualisiert sich auch die Webseite nach ca. 2-10 Minuten.
+Wenn Sie die "index.html" Datei in dem Git Repository aktualisieren, dann aktualisiert sich auch die Webseite nach ca. 1-10 Minuten.
