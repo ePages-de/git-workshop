@@ -24,7 +24,7 @@ hugo new --kind tutorial subject-two/my-tutorial
 
 ### Presentations
 
-The presentations are authored with the help of plain HTML code.
+The presentations are authored with the help of plain HTML code for [reveal.js](https://revealjs.com/) content elements.
 
 #### Add a new presentation
 
