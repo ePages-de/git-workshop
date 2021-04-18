@@ -16,6 +16,7 @@ Auf dieser Seite finden Sie eine Sammlung von Links zu Git und verwandten Themen
 
 - [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) - youtube.com
 - https://www.udemy.com/course/git-versionsverwaltung-fuer-einsteiger/
+- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4) - youtube.com
 
 ## Grundlagen
 
