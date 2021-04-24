@@ -150,3 +150,12 @@
 .highlight pre {
   padding: 10px;
 }
+
+div.callout p:first-of-type {
+  display: inline
+}
+
+div.callout p:nth-of-type(2)::before {
+  content: "\a";
+  white-space: pre;
+}
