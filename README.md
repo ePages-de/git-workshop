@@ -36,7 +36,7 @@ hugo new --kind presentation subject-two/my-presentation
 
 ### Preview changes
 
-To a development server which always re-renders after every change, run the following command:
+To a development server that always re-renders after every change, run the following command:
 
 ```
 hugo server
@@ -61,7 +61,7 @@ git commit -m "Update theme"
 ### Publish website
 
 To publish the website, just do a new commit on the `main` branch of the upstream repository.
-The GitHub Action [`hugo.yml`](.github/workflows/hugo.yml) will generate the HTML code and publish it on the `gh-pages` branch for which the website is hosted.
+The GitHub Action [`hugo.yml`](.github/workflows/hugo.yml) will generate the HTML code and publish it on the `gh-pages` branch from which the website is hosted.
 
 
 ## Credits
