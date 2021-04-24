@@ -15,7 +15,9 @@ Folgen Sie diesem Vorschlag, in dem Sie z.B. auf "Open in Atom" klicken.
 
 ![Button: Öffnen von Texteditor](./img/desktop_open_editor.png)
 
-Tipp: Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+{{< tip >}}
+Der von GitHub Desktop bevorzugte Texteditor lässt sich in den Einstellungen von GitHub Desktop ändern.
+{{< /tip >}}
 
 ![Einstellung von Texteditor](./img/desktop_preferences.png)
 
@@ -37,7 +39,9 @@ Belassen Sie es dabei und erstellen Sie einen neuen Commit, indem Sie auf den "C
 
 ![git commit Button](img/desktop_commit.png)
 
-Tipp: In den Textfeldern über dem "Commit to update-links" Button können Sie optional einen besseren Commit Titel als dem Default "Update _index.md" mitgeben und in dem "Description" Feld eine Erklärung für die gemachten Änderungen zu Protokoll geben.
+{{< tip >}}
+In den Textfeldern über dem "Commit to update-links" Button können Sie optional einen besseren Commit Titel als dem Default "Update _index.md" mitgeben und in dem "Description" Feld eine Erklärung für die gemachten Änderungen zu Protokoll geben.
+{{< /tip >}}
 
 ## Referenzen
 

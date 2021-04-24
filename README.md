@@ -12,14 +12,44 @@ This repository contains the source code for Git workshop materials.
 
 ### Tutorials
 
-The Git tutorials are authored with the help of [Markdown](https://www.markdownguide.org/basic-syntax) code.
-
 #### Add a new tutorial
 
-Run the following command to create a new presentation in Hugo's `content` directory:
+Run the following command to add a new presentation in Hugo's `content` directory:
 
 ```
 hugo new --kind tutorial subject-two/my-tutorial
+```
+
+#### Content syntax
+
+The presentations can be created using [Markdown](https://daringfireball.net/projects/markdown/) syntax.
+
+#### Content syntax extensions
+
+Along with the Markdown syntax, you can use the following custom [Hugo shortcodes](https://gohugo.io/content-management/shortcodes):
+
+**Info callout box**
+
+```
+{{< info >}}
+Lorem [impsum](https://example.com) dolor sit amet.
+{{< /info >}}
+```
+
+**Tip callout box**
+
+```
+{{< tip >}}
+Lorem [impsum](https://example.com) dolor sit amet.
+{{< /tip >}}
+```
+
+**Warning callout box**
+
+```
+{{< warning >}}
+Lorem [impsum](https://example.com) dolor sit amet.
+{{< /warning >}}
 ```
 
 ### Presentations

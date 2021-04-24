@@ -7,7 +7,9 @@ title: HTML Datei anlegen
 Öffen Sie nun den Dateisystem-Order mit dem geklonten Repository mit Ihrem Texteditor.
 GitHub Desktop hilft dabei, indem es auf der Startseite von dem Repository einen Button anbieten, um mit dem eingestellten Texteditor das Projekt zu öffnen.
 
-Tipp: Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den "Preferences" Link klicken und dann in dem sich öffnenden Dialog zu dem "Integrations" Tab wechseln. Dort können Sie dann einen anderen der auf Ihrem System installierten Texteditoren auswählen.
+{{< tip >}}
+Wenn der Texteditor welchen Sie benutzen wollen nicht hier erscheint, können Sie die Einstellung ändern, indem Sie auf den "Preferences" Link klicken und dann in dem sich öffnenden Dialog zu dem "Integrations" Tab wechseln. Dort können Sie dann einen anderen der auf Ihrem System installierten Texteditoren auswählen.
+{{< /tip >}}
 
 Alternativ können Sie auch den Texteditor über das Betriebssystem starten und dann dort den Ordner öffnen.
 

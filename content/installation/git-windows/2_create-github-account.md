@@ -7,4 +7,6 @@ Bitte legen Sie sich hier einen kostenlosen Account dafür an:
 
 [https://github.com/join](https://github.com/join)
 
-Tipp: Alternativen von GitHub sind z.B. [GitLab](https://about.gitlab.com/) und [BitBucket](https://bitbucket.org/product/).
+{{< info >}}
+Alternativen von GitHub sind z.B. [GitLab](https://about.gitlab.com/) und [BitBucket](https://bitbucket.org/product/).
+{{< /info >}}
