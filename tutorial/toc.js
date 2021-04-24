@@ -32,16 +32,19 @@ function setActiveSection(sectionCount) {
   
   var backButton = document.querySelector("button.goToPreviousSection");
   if (sectionCount == 1) {
-    backButton.setAttribute("disabled", "");
+    backButton.style.display = "none";
   } else {
-    backButton.removeAttribute("disabled");
+    backButton.style.display = "block";
   }
   
   var continueButton = document.querySelector("button.goToNextSection");
+  var finishButton = document.getElementById("finish");
   if (sectionCount == sectionLinks.length) {
-    continueButton.setAttribute("disabled", "");
+    finishButton.style.display = "block";
+    continueButton.style.display = "none";
   } else {
-    continueButton.removeAttribute("disabled");
+    finishButton.style.display = "none";
+    continueButton.style.display = "block";
   }
 }
 
