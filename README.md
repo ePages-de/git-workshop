@@ -46,13 +46,23 @@ hugo server
 
 This section is only relevant for project maintainers.
 
-### Build website
+### Update theme
 
-To generate the HTML for publication, run the following command:
+If you want to apply a new version of the [workshop-materials](https://github.com/experimental-software/workshop-materials) project where the layout of the website is defined, execute the following command:
 
 ```
-hugo --destination docs/
+cd themes/workshop-materials/
+git pull origin master
+cd -
+git add themes/workshop-materials/
+git commit -m "Update theme"
 ```
+
+### Publish website
+
+To publish the website, just do a new commit on the `main` branch of the upstream repository.
+The GitHub Action [`hugo.yml`](.github/workflows/hugo.yml) will generate the HTML code and publish it on the `gh-pages` branch for which the website is hosted.
+
 
 ## Credits
 

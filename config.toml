@@ -2,6 +2,7 @@ baseURL = "https://git-workshop.epages.works/"
 languageCode = "de-de"
 title = "Git Workshop"
 theme = "workshop-materials"
+defaultContentLanguage = "de"
 
 [params]
   subject = "Git"
