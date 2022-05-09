@@ -6,4 +6,3 @@ defaultContentLanguage = "de"
 
 [params]
   subject = "Git"
-  feedbackLink = "https://github.com/ePages-de/git-workshop/issues/new"
