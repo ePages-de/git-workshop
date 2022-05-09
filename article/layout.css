@@ -1,0 +1,82 @@
+
+#title {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  border-bottom-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 15pt;
+}
+
+#title a {
+  padding-right: 20px;
+  color: black;
+}
+
+/* Style page content */
+#content {
+  max-width: 800px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content .card-title {
+  padding: 15px;
+}
+
+#content div.section {
+  display: none;
+}
+
+#content div.section.current {
+  display: block;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#contact {
+  position: fixed;
+  top: 0px;
+  right: 7px;
+  z-index: 5;
+  padding: 8px;
+}
+
+div.highlight pre {
+  padding: 8px;
+}
+
+#content {
+    font-size: 18px ;
+    margin-bottom: 100px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  z-index: 100;
+  border: 6px solid #555;
+  margin-bottom: 40px;
+}
+
+#content .card {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    
+    border-width: 2px !important;
+}
+
+body {
+  background: #E8E8E8 !important;
+}

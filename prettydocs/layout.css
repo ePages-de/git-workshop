@@ -1,3 +1,7 @@
+div.item-inner h3.title {
+    font-size: 20px !important;
+}
+
 /*
  * Template Name: PrettyDocs - Bootstrap 4 Template for documentations
  * Version: 2.0
@@ -11,7 +15,7 @@
 body {
   font-family: 'Open Sans', arial, sans-serif;
   color: #494d55;
-  font-size: 14px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -34,6 +38,7 @@ html, body {
 
 .footer {
   height: 50px;
+  font-size: 14px;
 }
 
 p {
@@ -1217,7 +1222,7 @@ select {
 }
 
 .landing-page .branding .logo {
-  font-size: 38px;
+  font-size: 50px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -1234,7 +1239,7 @@ select {
 
 .landing-page .tagline {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .landing-page .tagline p {
